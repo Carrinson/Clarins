@@ -1,0 +1,404 @@
+
+
+
+{
+    
+"eyes":[
+    {
+        "image_path":"./img1/wonder vol.webp",
+        "image_path2":"./img3/wonder-vol-xxl.png",
+        "image_path3":"./img3/wonder-vol-xxl2.png",
+        "product_name":"Wonder Volume Mascara XXL",
+        "description":"Its's not just a mascara...get instant and extreme life volume while boosting th volume of your lashes day after day thanks to its lash care concentration.",
+        "quantity":"8ml",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "reviews":"NEW",
+        "price":"$540.00"
+    },
+    {
+        "image_path":"./img1/blend.webp",
+        "image_path2":"./img1/blend.webp",
+        "image_path3":"./img1/blend.webp",
+        "product_name":"Eyeshadow Blending Brush",
+        "description":"Flexible,tapered eyeshadow brush effortlessly blends cream and powder eyeshadows.",
+        "size":"small",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "use":"For blending and shading with cream powdered eyeshadows.",
+        "reviews":"5 REVIEWS",
+        "price":"$375.00"
+    },
+    {
+        "image_path":"./img1/dense.webp",
+        "product_name":"Dense + Round Eyeshadow Brush",
+        "description":"Dense,rounded eyeshadow brush blends cream and powder eyeshadows,and smudges liner.",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "use":"For applying and blending cream and powder eyeshadows, and smudging eyeliner.",
+        "size":"medium",
+        "reviews":"4 REVIEWS",
+        "price":"$375.00"
+    },
+    {
+        "image_path":"./img1/gentle-eye.webp",   
+        "image_path2":"./img3/instant1.png",
+        "image_path3":"./img3/instant2.png",
+        "product_name":"Gentle Eye Make-Up Removal",
+        "description":"The make-up for sensitive eyes that gently removes make-up.",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "texture":"Lotion",
+        "quantity":"125ml",
+        "reviews":"20 REVIEWS",
+        "price":"$530.00"
+    },
+     {
+        "image_path":"./img1/lash&brow.webp",
+        "image_path2":"./img1/lash&brow.webp",
+        "image_path3":"./img3/lash1.png",
+        "product_name":"Lash & Brow 4D Mascara",
+        "description":"The top coat mascara has two uses: waterproofing lashes and fixing eyebrows.",
+        "quantity":"8ml",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "texture":"Cream-Gel",
+        "reviews":"32 REVIEWS",
+        "price":"$530.00"
+    },
+     {
+        "image_path":"./img1/instant-eye.webp",
+        "image_path2":"./img3/instant1.png",
+        "image_path3":"./img3/instant2.png",
+        "product_name":"Instant Eye Make-Up Removal",
+        "description":"The bi-phase eye make-up remover that gently removes waterproof make-up.",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "texture":"Lotion",
+        "quantity":"125ml",
+        "reviews":"61 REVIEWS",
+        "price":"$215.00"
+    },
+     {
+        "image_path":"./img1/sos.webp",
+        "image_path2":"./img3/sos.png",
+        "image_path3":"./img3/sos.png",
+        "product_name":"SOS Serum Mascara",
+        "description":"The new half-macara, half lash-care treatment that provides volume, lenth, density, curl and definition with evry stroke.",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "texture":"Cream-Gel",
+        "quantity":"8ml",
+        "reviews":"64 REVIEWS",
+        "price":"$530.00"
+    },
+     {
+        "image_path":"./img1/supra-vol.webp",
+        "image_path2":"./img3/supra.png",
+        "image_path3":"./img3/supra2.png",
+        "product_name":"Supra Volume Mascara",
+        "description":"Double volume effect make-up and skincare.",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "texture":"Gel/Lquid",
+        "quantity":"8ml",
+        "reviews":"431 REVIEWS",
+        "price":"$540.00"
+    },
+    {
+        "image_path":"./img1/wpmas4.webp",
+        "image_path2":"./img3/wonder-per-mas4d3.png",
+        "image_path3":"./img3/wonder-per-mas4d2.png",
+        "product_name":"Wonder Perfect Mascara 4D Waterproof",
+        "description":"Gives your lashes volume, lenth, curl and definition for flawless four-dimentional eyes as it visibly lenghtens and thickens lashes more everyday.",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "texture":"Cream",
+        "quantity":"8ml",
+        "reviews":"74 REVIEWS",
+        "price":"$530.00"
+    }, 
+    {
+        "image_path":"./img1/ombre.webp",
+        "image_path2":"./img3/ombre1.png",
+        "image_path3":"./img3/ombre2.png",
+        "product_name":"Ombre Mono Eyeshadow",
+        "description":"Intensly coloured, they enhance your eyelids with a craemy texture and a second skin effect.",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "texture":"powder",
+        "quantity":"1.5g",
+        "reviews":"32 REVIEWS",
+        "price":"$430.00"
+    }, 
+    {
+        "image_path":"./img1/graphik.jpg",
+        "image_path2":"./img3/graphik.png",
+        "product_name":"Graphik Ink Liner",
+        "description":"Pure carbon dark pigment for the deepest dark.",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "quantity":"0.4ml",
+        "reviews":"15 REVIEWS",
+        "price":"$480.00"
+    },
+    {
+        "image_path":"./img1/waterproof.webp",
+        "image_path2":"./img3/wonder-per1.png",
+        "image_path3":"./img3/wonder-per2.png",
+        "product_name":"Waterproof Eye Pencil",
+        "description":"Brings a stroke of pure bold eye colour to the eye colour.",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "quantity":"0.5ml",
+        "reviews":"97 REVIEWS",
+        "price":"$440.00"
+    },
+    {
+        "image_path":"./img1/eyebrow-pen.jpg",
+        "image_path2":"./img3/eyebrow.png",
+        "image_path3":"./img3/eyebrow.png",
+        "product_name":"Eyebrow Pencil",
+        "description":"The long lasting eye pencil tames and deefines the shape of the brows.",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "quantity":"1.1g",
+        "reviews":"18 REVIEWS",
+        "price":"$425.00"
+    },
+    {
+        "image_path":"./img1/wonder-4dmas.webp",
+        "image_path2":"./img3/wonder-per-mas4d.png",
+        "image_path3":"./img3/wonder-per-mas4d3.png",
+        "product_name":"Wonder Perfect Mascara 4D",
+        "description":"Four dimention flawless eyes: volume, lenghtens, curve and high definition.",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "texture":"Gel/Fluid",
+        "quantity":"125ml",
+        "reviews":"145 REVIEWS",
+        "price":"$540.00"
+    },
+    {
+        "image_path":"./img1/khol.webp",
+        "image_path2":"./img1/khol.webp",
+        "image_path3":"./img3/khol.png",
+        "product_name":"Khol Eyepencil",
+        "description":"Long lasting eye pecil with a brush and sharpener.",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "reviews":"41 REVIEWS",
+        "quantity":"1.05g",
+        "price":"$445.00"
+    },
+    {
+        "image_path":"./img1/supra-lift.webp",
+        "image_path2":"./img3/supra-lift.png",
+        "image_path3":"./img3/supra-lift2.png",
+        "product_name":"Supra Lift and Curl Mascara",
+        "description":"Lashes are lifted, curled and perfectly defined with increased volume.",
+        "skin-type":"Dry, Oily, Combination, Normal",
+        "texture":"Cream",
+        "reviews":"330 REVIEWS",
+        "quantity":"8ml",
+        "price":"$540.00"
+    },
+    {
+        "image_path":"./img1/4-colour.webp",
+        "image_path2":"./img3/4pallete.png",
+        "image_path3":"./img3/4pallete2.png",
+        "product_name":"4-Coloured Eye Palette",
+        "description":"Ultra pigmented primer-infused eyeshadow palette with four long wearing shades in velvet, satin, foil and metallic finishes.",
+        "skin-type":"Normal, Oily, Combination,Dry ",
+        "texture":"powder",
+        "reviews":"47 REVIEWS",
+        "quantity":"4.2g",
+        "price":"$850.00"
+    }
+],
+
+    "men":[
+        {
+        "image_path":"./img2/shampoo7shaower.webp",
+        "image_path2":"./img4/smooth-shave-gel.png",
+        "image_path3":"./img4/shampoo&shower2.png",
+        "product_name":"Clarins Men Shampoo and Shower",
+        "description":"2-in-1 hair and body, tonong and conditioning.",
+        "skin-type":"Normal, Oily, Combination, Dry ",
+        "texture":"Gel",
+        "reviews":"24 REVIEWS",
+        "quantity":"200ml",
+        "price":"$495.00"
+    },
+    {
+        "image_path":"./img2/smooth-shave-foam-gel.webp",
+        "image_path2":"./img4/smooth-shave-gel.png",
+        "image_path3":"./img4/smooth-shave-gel2.png",
+        "product_name":"Clarins Men Smooth Shave Foaming Gel",
+        "description":"This ultra-smooth foaming gel facilitates a close, fast and efficient shave, while taking care of the skin.",
+        "skin-type":" Combination, Dry, Normal, Oily",
+        "texture":"Gel",
+        "reviews":"17 REVIEWS",
+        "quantity":"150ml",
+        "price":"$450.00"
+    },
+    {
+        "image_path":"./img2/after-shave-sooth-gel.webp",
+        "image_path2":"./img4/after-shave.png",
+        "image_path3":"./img4/after-shave2.png",
+        "product_name":"Clarins Men After Shave Soothing Gel",
+        "description":"An ultra-soothing 'bandage effect' gel that reduces irritation and redness caused by shaving.",
+        "skin-type":" Combination, Dry, Normal, Oily",
+        "texture":"Gel",
+        "reviews":"15 REVIEWS",
+        "quantity":"75ml",
+        "price":"$570.00"
+    },
+    {
+        "image_path":"./img2/beard-oil.webp",
+        "image_path2":"./img4/beard-oil.png",
+        "image_path3":"./img4/beard-oil2.png",
+        "product_name":"Clarins Men Shave + Beard Oil",
+        "description":"A 2-in-1 treatment with a light oil texture. It facilitates an ultra-comfortable close shave. Ideal for daily beard maintenance.",
+        "skin-type":" All skin",
+        "texture":"Oil",
+        "reviews":"13 REVIEWS",
+        "quantity":"30ml",
+        "price":"$545.00"
+    },
+    {
+        "image_path":"./img2/sooyh-toner.webp",
+        "image_path2":"./img4/toner.png",
+        "image_path3":"./img4/toner.png",
+        "product_name":"Clarins Men After Shave Soothing Toner",
+        "description":"After shaving, it’s time to soothe. This lotion protects, refreshes and tones the skin.",
+        "skin-type":" Combination, Dry, Normal, Oily",
+        "texture":"Liquid",
+        "reviews":"11 REVIEWS",
+        "quantity":"100ml",
+        "price":"$570.00 "
+    },
+    {
+        "image_path":"./img2/double-serum.webp",
+        "image_path2":"./img4/serum.png",
+        "image_path3":"./img4/serum2.png",
+        "product_name":"Double Serum Light Texture",
+        "description":"The intensive anti-ageing serum with 21 powerful plant extracts in a light texture, for everyone.",
+        "skin-type":"Normal, Oily, Combination, Dry",
+        "texture":"Serum",
+        "reviews":"1123 REVIEWS",
+        "quantity":"50ml",
+        "price":"$1120.00"
+    },
+    {
+        "image_path":"./img2/super-moit-balm.webp",
+        "image_path2":"./img4/moisture-balm.png",
+        "image_path3":"./img4/moisture-balm2.png",
+        "product_name":"Clarins Super Moisture Balm",
+        "description":"Extreme hydration and that cosy sensation.",
+        "skin-type":"Normal, Oily, Combination, Dry",
+        "texture":"Cream",
+        "reviews":"47 REVIEWS",
+        "quantity":"50ml",
+        "price":"$680.00"
+    },
+    {
+        "image_path":"./img2/cont.webp",
+        "image_path2":"./img4/control-dryskin.png",
+        "image_path3":"./img4/control-dryskin2.png",
+        "product_name":"ClarinsMen Line-Control Cream for Dry Skin",
+        "description":"Regenerates and fades fine lines caused by ageing.",
+        "skin-type":"Dry",
+        "texture":"Cream",
+        "reviews":"27 REVIEWS",
+        "quantity":"50ml",
+        "price":"$940.00"
+    },
+    {
+        "image_path":"./img2/moist-gel.jpg",
+        "image_path2":"./img4/moisture-gel2.png",
+        "image_path3":"./img4/moisture-gel.png",
+        "product_name":"ClarinsMen Super Moisture Gel",
+        "description":"Extreme hydration and that fresh feeling.",
+        "skin-type":"Combination, Dry, Normal, Oily",
+        "texture":"Gel",
+        "reviews":"36 REVIEWS",
+        "quantity":"50ml",
+        "price":"$680.00"
+    },
+    {
+        "image_path":"./img2/cont-balm.webp",
+        "image_path2":"./img2/cont-balm.webp",
+        "image_path3":"./img4/control-balm.png",
+        "product_name":"ClarinsMen Line-Control Balm",
+        "description":"Face care for men to fight against wrinkles and sagging skin.",
+        "skin-type":"Normal,Combination, Dry,",
+        "texture":"Cream",
+        "reviews":"29 REVIEWS",
+        "quantity":"50ml",
+        "price":"$705.00"
+    },
+    {
+        "image_path":"./img2/deo-roll-on.jpg",
+        "image_path2":"./img4/deo.png",
+        "image_path3":"./img4/deo2.png",
+        "product_name":"ClarinsMen Antiperspirant Deo Roll-On",
+        "description":"Long-lasting effective deodorant roll.",
+        "skin-type":"Combination, Dry, Normal, Oily",
+        "texture":"Gel",
+        "reviews":null,
+        "quantity":"50ml",
+        "price":"$410.00"
+    },
+    {
+        "image_path":"./img2/exfoliate.jpg",
+        "image_path2":"./img4/exfoliate2.png",
+        "image_path3":"./img4/exfoliate.png",
+        "product_name":"ClarinsMen Exfoliating Cleanser",
+        "description":"This foaming cleanser with exfoliating natural microbeads thoroughly removes impurities and surface dead skin cells to give a clean, fresh and bright complexion.",
+        "skin-type":"All skin",
+        "texture":"Gel",
+        "reviews":"45 REVIEWS",
+        "quantity":"125ml",
+        "price":"$535.00"
+    },
+    {
+        "image_path":"./img2/big-energy.jpg",
+        "image_path2":"./img4/big-energy2.png",
+        "image_path3":"./img4/big-energy.png",
+        "product_name":"ClarinsMen Energizing Gel",
+        "description":"A hydrating gel especially formulated to give men's skin a boost.",
+        "skin-type":" Normal, Oily, Combination, Dry",
+        "texture":"Gel",
+        "reviews":"35 REVIEWS",
+        "quantity":"50ml",
+        "price":"$600.00"
+    },
+    {
+        "image_path":"./img2/energize-gel.webp",
+        "image_path2":"./img4/energize.png",
+        "image_path3":"./img4/energize2.png",
+        "product_name":"ClarinsMen Energizing Eye Gel",
+        "description":"A hydrating gel especially formulated to give men's skin a boost.",
+        "skin-type":" Normal, Oily, Combination, Dry",
+        "texture":"Gel",
+        "reviews":"35 REVIEWS",
+        "quantity":"15ml",
+        "price":"$596.00"
+    },
+    {
+        "image_path":"./img2/control-ye-balm.webp",
+        "image_path2":"./img4/eye-balm2.png",
+        "image_path3":"./img4/eye-balm.png",
+        "product_name":"ClarinsMen Line-Control Eye Balm",
+        "description":"Anti-ageing eye balm for men that visibly reduces the appearance of wrinkles, crows feet, puffiness, and dark circles. ",
+        "skin-type":" Normal, Oily, Combination, Dry",
+        "texture":"Balm",
+        "reviews":"26 REVIEWS",
+        "quantity":"50ml",
+        "price":"$720.00"
+    },
+    {
+        "image_path":"./img2/face-wash.webp",
+        "image_path2":"./img4/face.png",
+        "image_path3":"./img4/face2.png",
+        "product_name":"ClarinsMen Active Face Wash",
+        "description":"This mild facial cleanser with purifying extract of grindelia and checkerberry gently rids the skin of impurities and all traces of pollution, leaving the face perfectly clean and healthy.",
+        "skin-type":"Combination, Dry, Normal, Oily",
+        "texture":"Liquid",
+        "reviews":"71 REVIEWS",
+        "quantity":"125ml",
+        "price":"$500.00"
+    }
+]
+    
+
+
+
+
+}

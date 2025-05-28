@@ -1,0 +1,413 @@
+
+{
+    "Face":[
+    
+        {
+            "product-name":"Skin Illusion Full Coverage Foundation",
+            "description": "A breathable, FulL-Coverage,Luminous matte Foundation powered by Skin Technologyband Hyaluronic Acid For 24H high Performance wear,24H hydration and a shine free,flawless finish",
+            "price" : "$52.00",
+            "image_path": "./Face/Skin Illusion Full Coverage Foundation.png",
+            "image_path2": "./Image 2/Skin illusion full Coverage Foundation.PNG",
+            "image_path3":"./Image 2/skin illlusion 2.PNG",
+            "Usage" : "Apply at the center of your face and blend outward",
+            "Benefits":"Full coverage,Luminous matte finish.Breathable,lightweight texture.Mattifying + shine-stoppings.Transfer proof,smudge proof,sweat proof.Doesn't clog pores.Anti-pollution Complex protects from environmental aggressors."    
+        },
+        {
+            "product-name": "Tinted Oleo-Serum Foundation - Hydrating Skin Tint Face Serum",
+            "description": "A serum skin tint infused with the power of oils for a long wearing, satin finish and a shine-freee glow that nourishes and hydrates skin for a luminous, bare skin effect",
+            "price": "$45.00",
+            "skin type": "Normal, Dry",
+            "Texture": "Fluid",
+            "image_path": "./Face/Tinted Oleo-Serum Foundation.png",
+            "image_path2":"./Image 2/Timted Oleo-serum foundation1.PNG",
+            "image_path3":"./Image 2/Timted Oleo-serum foundation1.PNG2.PNG",
+            "Shades":"Available in 10 complexions perfecting shades- from light to extra deep",
+            "Usage": "Apply to clean, moisturized face and neck. Blend with fingertips or Clarins Flat Foundation Brush.",
+            "Benefits":"Buidable,natural,satin finish.Shine-free glow. Covers imperfections.Deeply nourishes.Helps reinfore skin barrier.8-hour hydration. 8-hour wear."
+        },
+        {
+            "product-name":"Everlasting Matte Foundation",
+            "description":"A long-lasting, weightless, full-coverage natural matte foundation with 24-hour hold and 24-hour hydartion",
+            "price":"$48.00",
+            "skin type":"Normal,Oily,Combination, Dry",
+            "Texture":"Fluid",
+            "image_path": "./Face/Everlasting Matte Foundation.png",
+            "image_path2":"./Image 2/Everlasting Matte Foundation.PNG",
+            "image_path3":"./Image 2/Everlasting Matte Foundation IMage 3.PNG",
+            "Shades":"Available in 35 shades for all skin tones and undertones",
+            "Usage":"Apply from the middle of the face to the sides blending towards neck,hairline,and ears.Mix with Double Serum for a flawless effect.",
+            "Benefits": "24-hour hold.Full coverage with a natural,matte finish.24-hour hydration. Ultra-lightweight.Transfer proof,smudge proof,sweat proof, and mask-friendly"
+        },
+    
+  
+        {
+            "product-name":"Instant Concealer Long Wearing + Crease Free",
+            "description": "Along-wearing,crease-free concealer that brightens,smoothes,and conceals dark circles and imperfections",
+            "price":"$35.00",
+            "skin type":"All Skins",
+            "image_path":"./Face/Instant Concealer Long Wearing + Crease Free.png",
+            "image_path2":"./Image 2/Long Wearing+ 1.PNG",
+            "image_path3":"./Image 2/Long Wearing+ 2.PNG",
+            "Shades":"Available in 7 perfecting shades",
+            "Usage":"Apply after Skincare to conceal imperfections and dark circles, and gently blend",
+            "Benefits":"Conceals dark circles.Brightens,smoothes,and refreshes the eye area.Visibly reduces puffiness.Hydrates and soothes.Long-wearing formula Natural-looking results"
+        },
+        {
+            "product-name":"Everlasting Concealer-Transfer-proof + Lightweight Matte Concealer",
+            "description":"Lightweight,long-wearing,matte concealer that provides full coverage for dark circles and imperfections while hydrating for 24hours",
+            "price":"$33.00",
+            "skin type":"Normal,Oily,Combination, Dry",
+            "Texture":"Fluid",
+            "image_path":"./Face/Everlasting Concealer.png",
+            "image_path2":"./Image 2/Everlastimg Concealser - Tranfer-proof + img2.PNG",
+            "image_path3":"./Image 2/Everlastimg Concealser - Tranfer-proof + img3.PNG",
+            "Shades":"Available in 8 shades",
+            "Usage":"Apply after Skincare to conceal imperfections and dark circles, and gently blend.To use as an eyeshadow primer,lightly blend over eyelid",
+            "Benefits":"Conceals dark circles and imperfections.Full coverage,crease-free formula.Long-wearing,matte finish.Transfer-proof,sweat-proof,and smudge-proof.Hydrates for 24hours.Lighweight and comfortable.Doubles as an eyeshadow primer.Hydration KInetics.Clarins' plants-based Anti-Pollution Complex helps protects skin from indoor and outdoor pollutants"
+        },
+    
+  
+        {
+            "product-name":"Beauty Flash Balm-Moisturing Tightening + Radaince Boosting Face Balm",
+            "description": "A multi-tasking balm that instantly moisturizes visibly brightens,and tightens facial contours so skin looks rested and relaxed,Also a 3-in-1 day cream,express face mask and makeup primer",
+            "price":"$52.00",
+            "skin type":"Combination, Dry,Normal,Oily,",
+            "Texture":"Cream",
+            "image_path":"./Face/Beauty Flash Balm.png",
+            "image_path2":"./Image 2/Beauty Flash Balm-Moisturizing + Radiance Boosting Face img 2.PNG",
+            "image_path3":"./public/Image 2/Beauty Flash Balm-Moisturizing + Radiance Boosting Face img 3.PNG",
+            "Usage":"Apply to clean face and neck",
+            "Benefits":"Promotes radiant skin.Visibly tightens  and smoothes.Reduced signs of fatigue.Preps skin for Flawless makeup application.10-minuteface mask.Provides gentle exfoliation to promote smooth skin.Contains Anti-Pollution Complex"
+        },
+        {
+            "product-name":"Instant Smooth-Perfecting Touch Face Primer",
+            "description":"Wrinkle-smoothing makeup primer that fills in fine lines,pores and deep wrinkles for foundation-ready skin in seconds",
+            "price":"$40.00",
+            "skin type":"Normal,Oily,Combination, Dry",
+            "Texture":"Cream",
+            "image_path":"./Face/Instant Smooth-Perfecting Touch Face Primer.png",
+            "image_path2":"./Image 2/instant smooth - perfecting touch face shimmer.PNG",
+            "image_path3":"./Image 2/image 2 for instant shimmer.PNG",
+            "Usage":"Use alone,under makeup,or mix with your foundation",
+            "Benefits":"Fills in fine lines,pores and deep wrinkles.Smoothes and hydrates the skins.Preps skin for flawless makeup application"
+        },
+        {
+            "product-name":"SOS Color Correcting + Hydrating Face Primer",
+            "description":"Color-correcting and perfecting makeup primer that hydrates and prep skin for flawless makeup application",
+            "price":"$42.00",
+            "Texture":"Fluid",
+            "image_path":"./Face/SOS Color Correcting + Hydrating Face Primer.png",
+            "image_path2":"./Image 2/Sos correcting + Hydrating face primer img 2.PNG",
+            "image_path3":"./Image 2/Sos correcting + Hydrating face primer img 3.PNG",
+            "Shades":"Available in 5 colors",
+            "Usage":"Apply to clean,moisturized skin; follow with foundation",
+            "Benefits":"Preps skin for make-up application. Prolongs makeup hold.24-hour Hydration. Anti-Pollution Complex"
+        },
+   
+  
+        {
+            "product-name":"Fix' Make-Up Makeup Hydrating Setting Spray for All Skin type",
+            "description":"4-in-1 makeup setting spray for all skin types with Oraganic Alpenrose extract*-Keeps makeup fresh and flawless all day .With 24H hold,the ultra-fine mist provides 12H hyration, locks out pollutants and boosts skin's radiance for a flawless finish.",
+            "price":"$35.00",
+            "Skin type":"Combination, Dry, Normal,Oily",
+            "Texture":"Spray",
+            "image_path":"./Face/Fix' Make-Up Makeup Hydrating Setting Spray for All Skin Types.png",
+            "image_path2":"./Image 2/Hydrating Setting for all skin types.PNG",
+            "image_path3":"./Image 2/images to of hydrating setiing all types2.PNG",
+            "Usage":"Appy a light mist over face to set makeup",
+            "Benefits":"24H makeup hold/ 12H hydration. Transfer-proof + Sweat-proof.Refreshes + soothes. Boosts skin's radiance.Clarin' plant-based Anti-Pollution Complex helps minimize the skin-aging effects of environmental pollution,including blue lights from electronics"
+        },
+        {
+            "product-name":"Fix' Make-Up- Fairy Blossome Collections",
+            "description":"An ode to spring's most delicate bloom- captured in our limited-edition Fix Makeup.This 4-in-1 spray refreshes with anew cherry blossome-inspired scent* while keeping makeup fresh for 24 hours, hydrating for 12,and protecting against pollution for a flawless finish.",
+            "price":"$35.00",
+            "Skin type":"Combination, Dry, Normal,Oily",
+            "Texture":"Spray",
+            "image_path":"./Face/Fix' Make-Up - Fairy Blossoms Collection.png",
+            "image_path2":"./Image 2/fix' Makeup Fairy Blossoms.PNG",
+            "image_path3":"./Image 2/fix' Makeup Fairy Blossoms image 2.PNG",
+            "Usage":"Apply a light mist over face to set makeup",
+            "Benefits":"24H makeup hold/ 12H hydration. Transfer-proof + Sweat-proof.Refreshes + soothes. Boosts skin's radiance.Clarin' plant-based Anti-Pollution Complex helps minimize the skin-aging effects of environmental pollution,including blue lights from electronics"
+        },
+        {
+            "product-name":"Powder Brush",
+            "description":"Plush,domed powder brush applies compact and loose powder with flawless,even results",
+            "price":"$36.00",
+            "Skin type":"All skin types",
+            "image_path":"./Face/Powder Brush.png",
+            "image_path2":"./Image 2/Powder Brush image 2.PNG",
+            "image_path3":"./Image 2/Rounded Eyeshadow Brush image 3.PNG",
+            "Usage":"For application of all compact and loose powders,over foundation or on bare skin",
+            "Benefits":"Diffuses powder for smooth,even application.Ultra-soft synthetic fibers.Sustainably-sourced birch handle"
+        },
+        {
+            "product-name":"Angled Blush Makeup Brush",
+            "description":"Plush,angled blush brush hugs the cheek contours while blending blushes bronzers, and highlighters for a sculpted effect",
+            "price":"$31.00",
+            "Skin type":"Combination, Dry, Normal,Oily",
+            "image_path":"./Face/Angled Blush Makeup Brush.png",
+            "image_path2":"./Image 2/Angled Brush Makup Brush img 2.PNG",
+            "image_path3":"./Image 2/Angled Brush Makup Brush img 3.PNG",
+            "Usage":"For application of loose or compact blushes,bronzers and highlighters",
+            "Benefits":"Hugs the contours of the face.Diffuses powder for smooth,even application.Ultra-soft synthetic fibers.Sustainably-sourced birch handle"
+        },
+        {
+            "product-name":"Flat Liquid Foundation Brush",
+            "description":"Flat foundation brush quickly blends cream and liquid formulaswith even,streak-free results",
+            "price":"$31.00",
+            "Skin type":"Normal,Oily,Combination, Dry",
+            "image_path":"./Face/Flat Liquid Foundation Brush.png",
+            "image_path2":"./Image 2/CFlat liquid Foundation Brush image 2.PNG",
+            "image_path3":"./Image 2/CFlat liquid Foundation Brush image 3.PNG",
+            "Usage":"For application of liquid and cream foundation, concealers,and primers",
+            "Benefits":"Quick,even application.Streaks-free results. Ulta-soft synthetic fibers.Sustainably- sourced birch handle"
+        },
+        {
+            "product-name":"Multi-use Foundation Brush",
+            "description":"Multi-purpose flared foundation brush blends liquid,cream,and powder formulas with a sheee finish and bare skin feel",
+            "price":"$31.00",
+            "Skin type":"Normal,Oily,Combination, Dry",
+            "image_path":"./Face/Multi-use Foundation Brush.png",
+            "image_path2":"./Image 2/Multi Use BRush image 2.PNG",
+            "image_path3":"./Image 2/Multi Use BRush image3.PNG",
+            "Usage":"For lighter application of liquid,cream, and powder foundation,concealers, and primers",
+            "Benefits":"Sheer,flawless results.Natural-lookings,bare skin effect.Ultra-soft synthetic fibers.Sustainbly-sourced birch handle"
+        },
+        {
+            "product-name":"Dense + Round Eyeshadow Brush",
+            "description":"Dene,rounded eyeshadow brush blends cream and powder eyeshadows and smudges liner",
+            "price":"$26.00",
+            "Skin type":"Combination, Dry, Normal,Oily",
+            "image_path":"./Face/Dense + Round Eyeshadow Brush.png",
+            "image_path2":"./Image 2/Dense+ Rounded Brush image 2.PNG",
+            "image_path3":"./Image 2/Dense+ Rounded Brush image 3.PNG",
+            "Usage":"For applying and blending creams and powder eyeshadows, and smudging eyeliner",
+            "Benefits":"Smooth eyeshadow application, Dense,rounded brush for shaping and smudging.Ultra-soft synthetic fibers.Sustainbly-sourced birch handle"
+        }
+    
+    ],
+    "Lips":[
+   
+        {
+            "product-name":"Joli Rouge Shine -High Shine Lipstick",
+            "description":"A creamy,high-shine lipstick that  delivers intense color,and extreme comfort in new eco-friendly,refillable tube",
+            "price":"$38.00",
+            "Shades":"Available in 13 shades of colors",
+            "Skin type":"Normal,Oily,Combination, Dry",
+            "Texture":"Stick",
+            "image_path":"./Lips/Joli Rouge Shine - High Shine Lipstick.png",
+            "image_path2":"/Image 2/Joli Rouge shine -High Shine Lipstick image 2.PNG",
+            "image_path3":"./Image 2/Joli Rouge shine -High Shine Lipstick image 3.PNG",
+            "Usage":"Apply to lips for shiny color and a luminous finish",
+            "Benefits":"Intense color, Hydrates,nourishes, comforts.Lightweight,Full coverage,satin finish.Eco-friendly refillable lipstick tube"
+        },
+        {
+            "product-name":"Joli Rouge Velvet",
+            "description":"A creamy,matte-shine lipstick that  delivers intense color,and extreme comfort -presented in a new eco-friendly,refillable tube",
+            "price":"$38.00",
+            "Shades":"Available in 14 perfecting shades",
+            "Skin type":"Normal,Oily,Combination, Dry",
+            "Texture":"Stick",
+            "image_path":"./Lips/Joli Rouge Velvet.png",
+            "image_path2":"./Image 2/Joli Rouge Velvet image 2.PNG",
+            "image_path3":"./Image 2/Joli Rouge Velvet image 3.PNG",
+            "Usage":"Apply to lips for intense color and a rich matte finish",
+            "Benefits":"Intense color, Hydrates,nourishes, comforts.Lightweight,Full coverage,matte finish.Eco-friendly refillable lipstick tube"
+        },
+        {
+            "product-name":"Joli Rouge Satin Lipstick Refill",
+            "description":"A creamy,satin-finish lipstick that delivers intense color,and extreme comfort in new eco-friendly,refill cartridge",
+            "price":"$24.00",
+            "Shades":"Available in 27 perfecting shades",
+            "Skin type":"Normal,Oily,Combination, Dry",
+            "Texture":"Stick",
+            "image_path":"./Lips/Joli Rouge Satin Lipstick Refill.png",
+            "image_path2":"./Image 2/Rouge Satin lipstick Refill image2.PNG",
+            "image_path3":"./Image 2/Rouge Satin lipstick Refill image3.PNG",
+            "Benefits":"Intense color, Hydrates,nourishes, comforts.Lightweight,Full coverage,satin finish."
+        },
+        {
+            "product-name":"Joli Rouge Shine Refill",
+            "description":"A creamy,high-shine lipstick that delivers intense color,and extreme comfort in new eco-friendly,refill cartridge",
+            "price":"$24.00",
+            "Shades":"Available in 13 shades of colors",
+            "Skin type":"Normal,Oily,Combination, Dry",
+            "Texture":"Stick",
+            "image_path":"./Lips/Joli Rouge Shine Refill.png",
+            "image_path2":"./Image 2/Rouge shine refill image 2.PNG",
+            "image_path3":"./Image 2/Rouge shine refill image 3.PNG",
+            "Usage":"Apply to lips for shiny color and a luminous satin finish",
+            "Benefits":"Intense color. Hydrates,nourishes, comforts.Lightweight,Full coverage,shiny finish."
+        },
+        {
+            "product-name":"Joli Rouge Velvet Refill",
+            "description":"A creamy,matte lipstick that  delivers intense color,and extreme comfort -presented in a new eco-friendly,refill cartridge",
+            "price":"$24.00",
+            "Shades":"Available in 16 perfecting shades",
+            "Skin type":"Normal,Oily,Combination, Dry",
+            "Texture":"Stick",
+            "image_path":"./Lips/Joli Rouge Velvet Refill.png",
+            "image_path2":"./public/Image 2/VelveT Refill image2.PNG",
+            "image_path3":"./Image 2/VelveT Refill image3.PNG",
+            "Usage":"Apply to lips for intense color and a rich matte finish",
+            "Benefits":"Intense color. Hydrates,nourishes, comforts.Lightweight,Full coverage, matte finish."
+        },
+        {
+            "product-name":"Joli Rouge Rose Gold Lipstick Case",
+            "description":"Luxurious,refillable lipstick cases in red,gold,white, and rose gold colors",
+            "price":"$14.00",
+            "image_path":"./Lips/Joli Rouge Rose Gold Lipstick Case.png",
+            "image_path2":"./Image 2/Gold LipStick Case image2.PNG",
+            "image_path3":"./Image 2/Gold LipStick Case image3.PNG",
+            " Case Shades":"Available in 4 shades",
+            "Skin type":"Normal,Oily,Combination, Dry"
+        },
+    
+        {
+            "product-name":"Lip Comfort Oil- Fairy Blossoms Collections",
+            "description":"A kiss of cherry blossom beauty now in a new limited-edition Rosy Sakura shade.This shimmery pink lip oil hydrates,comforts, and plumps with a glossy radiance inspired by spring in full bloom",
+            "price":"$30.00",
+            "image_path":"./Lips/Lip Comfort Oil - Fairy Blossoms Collection.png",
+            "image_path2":"./Image 2/LIP Comfort OIl - Fairy Blossom image 2.PNG",
+            "image_path3":"./Image 2/LIP Comfort OIl - Fairy Blossom image 3.PNG",
+            "Usage":"Wear alone; to prime lips;or top off any lipstick or stain for exrta shine",
+            "Benefits":"Ultra-hydrating formula comforts and protects.A trio of nourishing iols visibly plumps lips.Kisses lips with a sheer hint of color and an iridescent finish."
+        },
+        {
+            "product-name":"Lip Comfort Oil 54 Iconic Red",
+            "description":"This limited editiom shade in Iconic Red celebrates 100 yeras of Lip Comfort Oil.Enriches with atrioof plant oils,it nourishes,hydrates and visibly plumps for a protective shield high-shine color ",
+            "price":"$30.00",
+            "image_path":"./Lips/Lip Comfort Oil 54 Iconic Red.png",
+            "image_path2":"./Image 2/Lip Comfort Oil 54 Iconic Image 2.PNG",
+            "image_path3":"./Image 2/Lip Comfort Oil 54 Iconic Image 3 - Copy.PNG",
+            "Usage":"Wear alone,or top-off any lipstick or lip stain with a touch of sheer,high-shine red color.For more intense color,pair with Water Lip Stain in Red Water",
+            "Benefits":"Kisses lips with a sheer hint of color and mirror-like shine.24-hour hydration to smooth,comfort, + protect.A trio of essential oils nourish,hydrate + visibly plump for a 44% fuller-looking pout,and lips that are 52% more hydrated."
+        },
+        {
+            "product-name":"Lip Comfort Oil Hydrating and Plumping Lip Oil",
+            "description":"Nourishing lip oil enriches with a trio of plant oils to nourish, comfort, and visibly plump lips while providing a protective shield of high-shining color",
+            "price":"$30.00",
+            "Shades":"Available in 10 perfecting shades",
+            "Skin type":"Normal,Oily,Combination, Dry",
+            "Texture":"Oil",
+            "image_path":"./Lips/Lip Comfort Oil Hydrating and Plumping Lip Oil.png",
+            "image_path2":"./Image 2/lip comfort oil hydating and plumping lip oil image 2.PNG",
+            "image_path3":"./Image 2/lip comfort oil hydating and plumping lip oil image 3.PNG",
+            "Usage":"Wear alone; to prime lips;or top off any lipstick or stain for extr shine",
+            "Benefits":"Ultra-hydrating lip oil - comforts and protects.A trio of nourishing iols visibly plumps lips.Kisses lips with a sheer hint of color and mirror-like shine.Available in 10 shades,including 5 pH-reactive shades that delivers customized color upon contact with lips"
+        },
+        {
+            "product-name":"Lip Comfort Oil Duo",
+            "description":"Travel-sized duo of nourishing lip oils enriched with a trio of plant oils to nourish, comfort, and visibly plumps lips,while providing a protective shield og high-shining color",
+            "price":"$18.00",
+            "image_path":"./Lips/Lip Comfort Oil Duo.png",
+            "image_path2":"./Image 2/lip Comfort duo image 2.PNG",
+            "image_path3":"./Image 2/lip Comfort duo image 3.PNG",
+            "Usage":"Wear alone; to prime lips;or top off any lipstick or stain for extra shine",
+            "Benefits":"Ultra-hydrating lip oil - comforts and protects.A trio of nourishing iols visibly plumps lips.Kisses lips with a sheer hint of color and mirror-like shine.Available in 10 shades,including 5 pH-reactive shades that delivers customized color upon contact with lips"
+        },
+        {
+           "product-name":"Black + white Lip Comfort Oil with Shimmer",
+           "description":"Two limited-edition,black and white shimmering lip oils enriched with a trio of plant oils to nourish,comfort, and visibly plump lips,while providng a protective shield of high-shining color and sparkle",
+           "price":"$30.00",
+           "image_path":"./Lips/Black + White Lip Comfort Oil with Shimmer.png",
+           "image_path2":"./Image 2/Black + white lip comfort oil with shimmer image 2.PNG",
+           "image_path3":"./Image 2/Black + white lip comfort oil with shimmer image 3.PNG",
+            "Usage":"Wear alone; to prime lips;or top off any lipstick or stain for extra shine",
+            "Benefits":"Ultra-hydrating lip oil - comforts and protects.A trio of nourishing iols visibly plumps lips.Kisses lips with a sheer hint of color and mirror-like shine.Available in 10 shades,including 5 pH-reactive shades that delivers customized color upon contact with lips"
+        },
+        {
+            "product-name":"Lip Comfort Oil- Black & White Duo",
+            "description":"Discover a duo of limited-edition,black and white shimmmering lip oils",
+            "price":"$54.00",
+             "image_path":"./Lips/Lip Comfort Oil-Black & White Duo.png",
+            "image_path2":"/Image 2/Comfort Black & White Duo image2.PNG",
+            "image_path3":"./Image 2/Comfort Black & White Duo image3.PNG"
+        },
+        {
+            "product-name":"Lip Comfort Oil Power of Color- Hydrating + Plumping Lip Oil",
+            "description":"A limited edition of vibrantly coloed lip oils - with nourishing Organic Sweetbriar Rose oil*- that hydrate, comfort, and visibly plumps.Same L=lightweight texture as the original Lip Comfort Oil, with bold pops of color and bright shine",
+            "price":"$30.00",
+            "image_path":"./Lips/Lip Comfort Oil Power of Color - Hydrating + Plumping Lip Oil.png",
+            "image_path2":"React_Me/public/Image 2/Power of Color hydrating plumping lips oil image2.PNG",
+            "image_path3":"React_Me/public/Image 2/Power of Color hydrating plumping lips oil image3.PNG",
+            "Usage":"Wear alone,or top-off any lipstick or stain fora pretty pop of color and shine",
+            "Benefits":"Comfort and protect.Provide color pop and shine to your lips.Available in 3 new vibrant shades"
+        },
+        {
+            "product-name":"Lip Comfort Duo- Cherry",
+            "description":"Bundle and save on our iconic lip care duo in cherry:Lip Comfort Oil and Lip Oil Balm",
+            "price":"$51.00",
+            "image_path":"./Lips/Lip Comfort Duo-Cherry.png",
+            "image_path2":"React_Me/public/Image 2/lip comfort duo -cherry image2.PNG",
+            "image_path3":"React_Me/public/Image 2/lip comfort duo -cherry image3.PNG"
+
+        },
+        {
+            "product-name":"Lip Comfort Duo- Pitaya",
+            "description":"Bundle and save on our iconic lip care duo in Pitaya:Lip Comfort Oil and Lip Oil Balm",
+            "price":"$51.00",
+            "image_path":"./Lips/Lip Comfort Duo-Pitaya.png ",
+            "image_path2":"./Image 2/lip comfort dup -pitaya image 2.PNG",
+            "image_path3":"./Image 2/lip comfort dup -pitaya image 3.PNG"
+        },
+       
+
+        {
+            "product-name":"Lip Perfector 2-in-1 Lip and Cheek Color Balm",
+            "description":"A 2-in-1 balm with highlighter that nourishes and plumps lips with 3D shine whie providing a boost of radiance to cheeks for a natural healthy glow",
+            "price":"$30.00",
+            "shades":"Available in 6 shades",
+            "Skin type":"Normal,Oily,Combination, Dry",
+            "Texture":"Balm",
+            "image_path":"./Lips/Lip Perfector 2-in-1 Lip and Cheek Color Balm.png",
+            "image_path2":"./Image 2/Lip perfector 2-in-1 lip and cheek image 2.PNG",
+            "image_path 3":"./Image 2/Lip perfector 2-in-1 lip and cheek image 3.PNG",
+            "Usage":"Apply throughout the day as needed",
+            "Benefit":"Smoothes and hydrate.Boosts radiance.Plumps"
+        },
+        {
+            "product-name":"Lips Perfector Shimmer Lip Gloss",
+            "description":"Nourishing lip gloss that delivers a tint of shimmering color and 3D shine",
+            "price":"$30.00",
+            "Shades":"Available in 6 perfecting shades",
+            "Skin type":"Normal,Oily,Combination, Dry",
+            "image_path":"./Lips/Lip Perfector Shimmer Lip Gloss.png",
+            "image_path2":".ic/Image 2/Lip Perfector Shiimmer Lip gloss image 3.PNG",
+            "image_path3":"./Image 2/Lip Perfector Shiimmer Lip gloss image 3..PNG",
+            "Usage":"Wear akone,or top off your favorite lipstick witha kiss of shimmer",
+            "Benefits":"Plumps and shines.Nourishes and hydrates.Melting cream texture.Vanilla scent.Pampering cushion applicator"
+        },
+        {
+            "product-name":"Lips Perfector Nourishes 3D Balm Lip Gloss- Intense Color",
+            "description":"Nourishing lip gloss that delivers intense color and 3D shine",
+            "price":"$30.00",
+            "shades":"Available in 4 shades",
+            "Skin type":"Normal,Oily,Combination, Dry",
+            "Texture":"Balm",
+            "image_path":"./Lips/Lip Perfector Nourishing 3D Balm Lip Gloss - Intense Color.png",
+            "image_path2":"./Image 2/3D Balm lip-intense Color image 2.PNG",
+            "image_path3":"./Image 2/3D Balm lip-intense Color image 3.PNG",
+            "Usage":"Wear akone,or top off your Clarins lipstick for added shine",
+            "Benefits":"4-hour hydration* with Shea butter.Radiant shine,wet effect.Melting,non-sticky cream-gel texture.Addictive vanilla scent.Comforting cushion applicator.*Instrumental test - 11 women"
+        },
+ 
+        {
+            "product-name":"Water Lip Stain",
+            "description":"A matte, kiss-proof lip stain with buildable 24H coverage powered by our NEW Water Shot Complex for lipsthat are 49% more hydrated and a ultra-lightweight,barely-there feel.",
+            "price":"$32.00",
+            "Shades":"Available in 4 colors",
+            "image_path":"./Lips/Water Lip Stain.png",
+            "image_path2":"./Image 2/Water lip stain image 2.PNG",
+            "image_path3":"./Image 2/Water lip stain image 3.PNG",
+            "Usage":"Build your perfect color- the more coats, the deeper the pigment,from subtle,sheer tint to bold,vibrant color.Wear alone for a matte finish, or top off with Lip Comfort Oil,Lip Oil Balm, or Lip Perfector for added moisture and shine",
+            "Benefits":"Kiss prood, Transfer- proof, 24H hold. Comfortablematte finish with a barely- there feel.Softens + protects from dehydration for lips that are 49% more hydrated.Anti-Pollution Complex Protects from environmental aggressors"
+        }
+        
+   
+        
+        
+       
+    ]
+    }
+

@@ -1,0 +1,299 @@
+{
+    "moisturizer":[
+    {
+        "id": 1,
+        "productname":"Rose Radiance Peptide Day Cream For Mature Skin" ,
+        "image_path": "public/moisturizers/moisturizer_1.png",
+        "description": "A pink tinted, 2-in-1 anti-aging + radiance-boosting day cream for mature skin that replenishes, visibly lifts, and smoothes wrinkles while providing a healthy, rosy glow.",
+        "quantity": 100,
+        "price": "$136",
+        "skin type": "Normal, Oily, Combination, Dry",
+        "benefits":{
+            "1": "Boosts skins radiance with a rosy glow",
+            "2":"Reduces the look of deep wrinkles + skin slackening",
+            "3":"Visibly lifts, firms, smoothes + plumps",
+            "4":"Evens skin tone",
+            "5":"Hydrates, softens + comforts",
+            "6":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": "Apply to clean face and neck every morning."
+    },
+    {
+        "id": 2,
+        "productname":"Super Restorative Day Cream - SPF 15 Day Moisturizer for Menopausal Skin" ,
+        "image_path": "public/moisturizers/moisturizer_2.png",
+        "description": "An anti-aging day cream for mature skin that replenishes, targets wrinkles, visibly improves slackening, evens skin tone and protects with Broad Spectrum SPF 15 sunscreen. Powered by Organic Harungana, as effective as retinol* and gentle on the skin, plus Organic Gorse.",
+        "quantity": 100,
+        "price": "$136",
+        "skin type": "Normal, Oily, Combination, Dry",
+        "benefits":{
+            "1": "Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Shields UVA/UVB rays with Broad Spectrum SPF 15 sunscreen",
+            "4":"Evens skin tone",
+            "5":"Hydrates, softens + comforts",
+            "6":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": "Apply to clean face and neck every morning."
+    },
+    {
+        "id": 3,
+        "productname":"Super Restorative Day Cream - Anti-Aging + Anti-Wrinkle Cream for Menopausal Skin" ,
+        "image_path": "public/moisturizers/moisturizer_3.png",
+        "description": "An anti-aging day cream for mature skin that replenishes, targets wrinkles, visibly improves slackening, and evens skin tone. Powered by Organic Harungana, as effective as retinol* and gentle on the skin, plus Organic Gorse",
+        "quantity": 100,
+        "price": "$136",
+        "skin type": "Normal, Oily, Combination, Dry",
+        "benefits": {
+            "1": "Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Shields UVA/UVB rays with Broad Spectrum SPF 15 sunscreen",
+            "4":"Evens skin tone",
+            "5":"Hydrates, softens + comforts",
+            "6":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": "Apply to clean face and neck every morning."
+    },
+    {
+        "id": 4,
+        "productname":"Super Restorative Day Cream - Very Dry Skin" ,
+        "image_path": "public/moisturizers/moisturizer_4.png",
+        "description": "",
+        "quantity": 100,
+        "price": "$106",
+        "skin type": "An anti-aging day cream for very dry, mature skin that replenishes, targets wrinkles, visibly improves slackening, and evens skin tone. Powered by Organic Harungana, as effective as retinol* and gentle on the skin, plus Organic Gorse. ",
+        "benefits": {
+            "1": "Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Shields UVA/UVB rays with Broad Spectrum SPF 15 sunscreen",
+            "4":"Evens skin tone",
+            "5":"Hydrates, softens + comforts",
+            "6":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": "Apply to clean face and neck every morning."
+    },
+    {
+        "id": 5,
+        "productname":"Super Restorative Night Cream - Anti-Aging Night Moisturizer for Menopausal Skin" ,
+        "image_path": "public/moisturizers/moisturizer_5.png",
+        "description": "An anti-aging night cream for mature skin that replenishes, targets wrinkles, visibly improves slackening, boosts radiance, and evens skin tone. Powered by Organic Harungana, as effective as retinol* and gentle on the skin, plus Organic Gorse. ",
+        "quantity": 100,
+        "price": "$144",
+        "skin type": "Normal, Oily, Combination, Dry",
+        "benefits": {
+            "1": "Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Shields UVA/UVB rays with Broad Spectrum SPF 15 sunscreen",
+            "4":"Evens skin tone",
+            "5":"Hydrates, softens + comforts",
+            "6":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": "Apply each evening to clean face and neck"
+    },
+    {
+        "id": 6,
+        "productname":"Super Restorative Night Cream - Very Dry Skin" ,
+        "image_path": "public/moisturizers/moisturizer_6.png",
+        "description": "An anti-aging night cream for very dry, mature skin that replenishes, targets wrinkles, visibly improves slackening, boosts radiance, and evens skin tone. Powered by Organic Harungana, as effective as retinol* and gentle on the skin, plus Organic Gorse.",
+        "quantity": 100,
+        "price": "$123",
+        "skin type": "Dry",
+        "benefits": {
+            "1": "Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Shields UVA/UVB rays with Broad Spectrum SPF 15 sunscreen",
+            "4":"Evens skin tone",
+            "5":"Hydrates, softens + comforts",
+            "6":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": "Apply each evening to clean face and neck."
+    },
+    {
+        "id": 7,
+        "productname":"Precious La Crème Riche Nourishing Face Cream" ,
+        "image_path": "public/moisturizers/moisturizer_7.png",
+        "description": "A luxurious, velvet-rich face cream - infused with rare Moon Flower cryoextract—for skin that looks firm, smooth, radiant, intensely nourished, and younger than its real age.",
+        "quantity": 100,
+        "price": "$400",
+        "skin type": "Dry",
+        "benefits": {
+            "1": "Visibly corrects and helps prevent signs of skin aging.",
+            "2":"Deeply nourishes, hydrates, and comforts",
+            "3":"Visibly firms, smoothes, and renews radiance"
+            },
+        "application methods": "Apply to clean skin, morning and evening."
+    },
+    {
+        "id": 8,
+        "productname":"Precious La Crème Age-Defying Moisturizer" ,
+        "image_path": "public/moisturizers/moisturizer_8.png",
+        "description": "Luxurious face cream—infused with rare Moonlight Flower cryoextract—for skin that looks firm, smooth, radiant, and younger than its real age.",
+        "quantity": 100,
+        "price": "$400",
+        "skin type": "Combination, Dry, Normal, Oily",
+        "benefits": {
+            "1": "Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Shields UVA/UVB rays with Broad Spectrum SPF 15 sunscreen",
+            "4":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": "Apply to clean skin, morning and evening."
+    },
+    {
+        "id": 9,
+        "productname":"Precious L'Outil 3-in-1 Facial Massage Tool" ,
+        "image_path": "public/moisturizers/moisturizer_9.png",
+        "description": "Luxurious, 3-in-1 facial massage tool promotes lymphatic drainage and enhances the anti-aging efficacy of La Crème.",
+        "quantity": 100,
+        "price": "$65",
+        "skin type": "Dry",
+        "benefits": {
+            "1": "Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Shields UVA/UVB rays with Broad Spectrum SPF 15 sunscreen",
+            "4":"Evens skin tone",
+            "5":"Hydrates, softens + comforts",
+            "6":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": "Glide over skin, morning and/or evening, after applying La Crème."
+    },
+    {
+            "id": 10,
+        "productname":"Nutri-Lumière - Nourishing Anti-Aging Day Cream" ,
+        "image_path": "public/moisturizers/moisturizer_10.png",
+        "description": "A 2-in-1, anti-aging, and skin tone enhancing day cream that nourishes, revitalizes, and illuminates nutrient-depleted, sallow-looking, mature skin.",
+        "quantity": 100,
+        "price": "$176",
+        "skin type": " Combination, Dry, Normal, Oily",
+        "benefits": {
+            "1": "Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Shields UVA/UVB rays with Broad Spectrum SPF 15 sunscreen",
+            "4":"Evens skin tone",
+            "5":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": "Use each morning."
+    },
+    {
+            "id": 11,
+        "productname":"Nutri-Lumière Day Cream - Anti-Aging + Nourishing Day Moisturizer for Mature Skin" ,
+        "image_path": "public/moisturizers/moisturizer_11.png",
+        "description": "Nourishing, nutrient-rich anti-aging day moisturizer that restores vitality to mature skin.",
+        "quantity": 100,
+        "price": "$170",
+        "skin type": "Normal, Oily, Combination, Dry",
+        "benefits": {
+            "1": "Nourishes and restores vitality to mature skin",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Visibly lifts and smoothes slackened skin",
+            "4":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": "Apply to clean face and neck every morning."
+    },
+    {
+            "id": 12,
+        "productname":"Nutri-Lumière Night Cream - Anti-Aging + Nourishing Night Moisturizer for Mature Skin" ,
+        "image_path": "public/moisturizers/moisturizer_12.png",
+        "description": "Intensely nourishing, nutrient-rich anti-aging night moisturizer that restores vitality to mature skin.",
+        "quantity": 100,
+        "price": "$186",
+        "skin type": "Combination, Dry, Normal, Oily",
+        "benefits": {
+            "1": "Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Shields UVA/UVB rays with Broad Spectrum SPF 15 sunscreen"
+        },
+        "application methods": "Apply to clean face and neck each evening."
+    },
+    {
+            "id": 13,
+        "productname":"Extra-Firming Energy" ,
+        "image_path": "public/moisturizers/moisturizer_13.png",
+        "description": "2-in-1, radiance-boosting and visibly firming day cream with re-energizing superfruits for a radiant glow.",
+        "quantity": 100,
+        "price": "$96",
+        "skin type": " Normal, Oily, Combination, Dry",
+        "benefits": {
+            "1": "Visibly firms, tightens, and smoothes",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Shields UVA/UVB rays with Broad Spectrum SPF 15 sunscreen",
+            "4":"Hydrates, softens + comforts",
+            "5":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": "Apply to clean face each morning."
+    },
+    {
+            "id": 14,
+        "productname":"Extra-Firming Day Face Cream with SPF 15" ,
+        "image_path": "public/moisturizers/moisturizer_14.png",
+        "description": "Age-defying day moisturizer for all skin types that visibly firms, lifts, and protects with Broad Spectrum SPF 15 sunscreen.",
+        "quantity": 100,
+        "price": "$96",
+        "skin type": "Combination, Dry, Normal, Oily",
+        "benefits": {
+            "1": "Visibly firms, tightens, and smoothes",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Shields UVA/UVB rays with Broad Spectrum SPF 15 sunscreen",
+            "4":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": "Apply to clean face and neck each morning"
+    },
+    {
+            "id": 15,
+        "productname":"Extra-Firming Day - All Skin Types" ,
+        "image_path": "public/moisturizers/moisturizer_15.png",
+        "description": "Age-defying day moisturizer for all skin types that visibly firms, lifts, and fights wrinkles",
+        "quantity": 100,
+        "price": "$96",
+        "skin type": "All skin types",
+        "benefits": {
+            "1": "Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Shields UVA/UVB rays with Broad Spectrum SPF 15 sunscreen",
+            "4":"Evens skin tone",
+            "5":"Hydrates, softens + comforts",
+            "6":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": "Apply to clean face and neck each morning."
+    },
+    {
+            "id": 16,
+        "productname":"Extra-Firming Face Emulsion - Lightweight Lotion for All Skin Types" ,
+        "image_path": "public/moisturizers/moisturizer_16.png",
+        "description": "A fine, lightweight lotion for all skin types that visibly firms, plumps, and boosts skin's radiance with age-defying results",
+        "quantity": 100,
+        "price": "$136",
+        "skin type": "Normal, Oily, Combination, Dry",
+        "benefits": {
+            "1": "Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Shields UVA/UVB rays with Broad Spectrum SPF 15 sunscreen",
+            "4":"Evens skin tone",
+            "5":"Hydrates, softens + comforts",
+            "6":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": " Apply morning and/or evening. Use alone, or after Extra-Firming Treatment Essence—the ultimate power duo for visibly firm, plump, radiant skin."
+    },
+    {
+            "id": 17,
+        "productname":"Multi-Active Day Face Cream - All Skin Types" ,
+        "image_path": "public/moisturizers/moisturizer_17.png",
+        "description": "A multi-tasking daily moisturizer for all skin types powered by 2% Niacinamide and Organic Sea Holly bio-extract* targets the first signs of aging to visibly smooth lines, refine pores, skin texture, and help strengthen skin's moisture barrier for a radiant, youthful glow.",
+        "quantity": 100,
+        "price": "$60",
+        "skin type": "Normal, Oily, Combination, Dry",
+        "benefits": {
+            "1": "Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "2":"Visibly minimizes lines, wrinkles, loss of density + skin slackening",
+            "3":"Shields UVA/UVB rays with Broad Spectrum SPF 15 sunscreen",
+            "4":"Evens skin tone",
+            "5":"Hydrates, softens + comforts",
+            "6":"Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollution, including blue light from electronics"
+        },
+        "application methods": "Apply to clean face and neck every morning."
+    }
+
+    ]
+    
+    
+}

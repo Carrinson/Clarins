@@ -1,0 +1,59 @@
+{
+  "perfume": [
+    {
+      "id": 1,
+      "product name": "Eau Dynamisante Treatment Fragrance Spray",
+      "image_path": "/product_img2/Perfume/perfume_1.png",
+      "image_pathtwo": "/product_img/Perfume/perfume1a.png",
+      "image_paththree": "/product_img/Perfume/perfume1b.png",
+      "description": "Energizing treatment fragrance that hydrates, revitalizes, and perfumes skin with aromatic essential oils.",
+      "price": "$62.00",
+      "quantity": 50,
+      "skin type": "Combination, Normal, Oily, Dry.",
+      "benefits": "Perfumes with an energizing scent. Hydrates and softens. Revitalizes and tones. Gentle and non-photosensitizing.",
+      "usage": "Spray onto skin throughout the day."
+    },
+
+    {
+      "id": 2,
+      "product name": "Eau des Jardins Treatment Fragrance Spray",
+      "image_path": "/product_img2/Perfume/perfume_2.png",
+      "image_pathtwo": "/product_img/Perfume/perfume2a.png",
+      "image_paththree": "/product_img/Perfume/perfume2b.png",
+      "description": "Uplifting treatment fragrance that hydrates, soothes, and perfumes skin with aromatic essential oils.",
+      "price": "$62.00",
+      "quantity": 50,
+      "skin type": "Combination, Normal, Oily, Dry.",
+      "benefits": "Perfumes with an energizing scent. Hydrates and softens. Revitalizes and tones. Gentle and non-photosensitizing.",
+      "usage": "Spray onto skin throughout the day."
+    },
+
+    {
+      "id": 3,
+      "product name": "Eau Ressourçante Treatment Fragrance Spray",
+      "image_path": "/product_img2/Perfume/perfume_3.png",
+      "image_pathtwo": "/product_img/Perfume/perfume3a.png",
+      "image_paththree": "/product_img/Perfume/perfume3b.png",
+      "description": "Refreshing face Perfume that hydrates, balances, and de-shines combination or oily skin.",
+      "price": "$62.00",
+      "quantity": 50,
+      "skin type": "Combination, Normal, Oily, Dry.",
+      "benefits": "Perfumes skin with a comforting, woody-floral scent. Soothes and refreshes. Hydrates and softens. Aromatherapy properties promote a feeling of calm. Gentle and non-photosensitizing.",
+      "usage": "Spray onto skin throughout the day."
+    },
+
+    {
+      "id": 4,
+      "product name": "Eau Extraordinaire Treatment Fragrance Spray",
+      "image_path": "/product_img2/Perfume/perfume_4.png",
+      "image_pathtwo": "/product_img/Perfume/perfume4a.png",
+      "image_paththree": "/product_img/Perfume/perfume4b.png",
+      "description": "Mood-boosting treatment fragrance that hydrates, invigorates, and perfumes skin with aromatic essential oils.",
+      "price": "$62.00",
+      "quantity": 50,
+      "skin type": "Combination, Normal, Oily, Dry.",
+      "benefits": "Formulated with 95% ingredients of natural origin. Moisturizes, softens and soothes. Invigorates and refreshes. Sheer lightweight spray. Refreshing scent revives inner strength.",
+      "usage": "Spray onto skin throughout the day."
+    }
+  ]
+}

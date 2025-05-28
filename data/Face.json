@@ -1,0 +1,784 @@
+{
+  "cleanser": [
+    {
+      "id": 1,
+      "product name": "Hydrating Face Cleanser",
+      "image_path": "/ClarinsWBG/Cleanser/Hydrating Gentle Foaming Face Cleanser.png",
+      "image_pathtwo": "/Clarins/Cleansers/Hydrating Gentle Foaming Face Cleanser.png",
+      "image_paththree": "/Clarins/Cleansers/Hydrating Gentle Foaming Face Cleanser2.png",
+      "description": "Moisture-rich, gentle foaming cleanser for normal to dry skin types removes makeup, impurities and boosts hydration for a soft and supple complexion.",
+      "price": "$31.00",
+      "quantity": 45,
+      "skin type": "Dry, Normal.",
+      "benefits": "Gently dissolves makeup, impurities and pollutants. Soothes and softens dry skin. Reinforces skin's hydration.",
+      "usage": "Apply to face and neck, morning and evening."
+    },
+
+    {
+      "id": 2,
+      "product name": "Purifying Face Cleanser",
+      "image_path": "/ClarinsWBG/Cleanser/Purifying Gentle Foaming Face Cleanser.png",
+      "image_pathtwo": "/Clarins/Cleansers/Purifying Gentle Foaming Face Cleanser.png",
+      "image_paththree": "/Clarins/Cleansers/Purifying Gentle Foaming Face Cleanser2.png",
+      "description": "Foaming cleanser for combination to oily skin that gently cleanses, purifies, and mattifies.",
+      "price": "$31.00",
+      "quantity": 50,
+      "skin type": "Combination, Oily.",
+      "benefits": "Gently washes away impurities, makeup, and pollution. Pore-cleansing blue granules purify skin with salicylic acid. Leaves skin refreshed, shine-free, and refined.",
+      "usage": "Apply to face and neck, morning and evening."
+    },
+
+    {
+      "id": 3,
+      "product name": "Soothing Face Cleanser",
+      "image_path": "/ClarinsWBG/Cleanser/Soothing Gentle Foaming Face Cleanser.png",
+      "image_pathtwo": "/Clarins/Cleansers/Soothing Gentle Foaming Face Cleanser.png",
+      "image_paththree": "/Clarins/Cleansers/Soothing Gentle Foaming Face Cleanser2.png",
+      "description": "Soothing, gentle foaming cleanser for very dry to sensitive skin types hydrates, softens and removes makeup for a soft, clean, comfortable complexion.",
+      "price": "$31.00",
+      "quantity": 35,
+      "skin type": "Dry.",
+      "benefits": "Gently dissolves makeup, impurities and pollutants. Soothes and softens dry skin. Reinforces skin's hydration.",
+      "usage": "Apply to face and neck, morning and evening."
+    },
+
+    {
+      "id": 4,
+      "product name": "One-Step Cleanser",
+      "image_path": "/ClarinsWBG/Cleanser/One-Step Gentle Exfoliating Cleanser.png",
+      "image_pathtwo": "/Clarins/Cleansers/One-Step Gentle Exfoliating Cleanser.png",
+      "image_paththree": "/Clarins/Cleansers/One-Step Gentle Exfoliating Cleanser2.png",
+      "description": "A 3-in-1 daily gentle exfoliating facial cleanser for all skin types cleanses, removes makeup and pore-clogging debris to reveal soft, smooth, radiant skin.",
+      "price": "$39.00",
+      "quantity": 20,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Gently polishes away makeup, impurities and pollution. Leaves skin soft, smooth, hydrated and refined. Helps clear clogged pores and revive radiance.",
+      "usage": "Apply to face and neck, morning and evening."
+    },
+
+    {
+      "id": 5,
+      "product name": "Precious Face Cleanser",
+      "image_path": "/ClarinsWBG/Cleanser/Precious La Mousse Luxury Foaming Face Cleanser.png",
+      "image_pathtwo": "/Clarins/Cleansers/Precious La Mousse Luxury Foaming Face Cleanser.webp",
+      "image_paththree": "/Clarins/Cleansers/Precious La Mousse Luxury Foaming Face Cleanser2.png",
+      "description": "A luxurious foaming facial cleanser—infused with rare Moonlight Flower cryoextract, with dual technology to cleanse and gently exfoliate while leaving skin radiant, smooth, and exquisitely soft.",
+      "price": "$105.00",
+      "quantity": 20,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Gently and effectively removes makeup and impurities. Leaves skin soft, smooth, comfortable and hydrated. Boosts skin's radiance.",
+      "usage": "Apply to face, morning and evening."
+    },
+
+    {
+      "id": 6,
+      "product name": "dermo-cleansing gel",
+      "image_path": "/ClarinsWBG/Cleanser/My Clarins RE-MOVE detoxifying dermo-cleansing gel.jpg",
+      "image_pathtwo": "/Clarins/Cleansers/My Clarins RE-MOVE detoxifying dermo-cleansing gel.png",
+      "image_paththree": "/Clarins/Cleansers/My Clarins RE-MOVE detoxifying dermo-cleansing gel2.png",
+      "description": "Vegan, fresh floral foaming cleansing gel for clean, clear, balanced skin.",
+      "price": "$21.00",
+      "quantity": 50,
+      "skin type": "Oily, Combination.",
+      "benefits": "Gently removes make-up, impurities, and excess oil. Visibly reduces the look of pores. Protects skin against the drying effects of hard water. Leaves skin radiant, smooth, shine-free, and refined.",
+      "usage": "Apply to damp skin, morning and evening."
+    },
+
+    {
+      "id": 7,
+      "product name": "One-Step Facial Cleanser",
+      "image_path": "/ClarinsWBG/Cleanser/One-Step Facial Cleanser with Orange Extract.png",
+      "image_pathtwo": "/Clarins/Cleansers/One-Step Facial Cleanser with Orange Extract.png",
+      "image_paththree": "/Clarins/Cleansers/One-Step Facial Cleanser with Orange Extract2.png",
+      "description": "Bi-phase facial cleanser that removes makeup, cleanses, tones, and refreshes in one step.",
+      "price": "$39.00",
+      "quantity": 45,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Cleanses and tones in one simple step. Revives radiance, no need to rinse. Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollutants.",
+      "usage": "Apply to face and neck, morning and evening."
+    },
+
+    {
+      "id": 8,
+      "product name": "Gentle Renewing Cleansing Mousse",
+      "image_path": "/ClarinsWBG/Cleanser/Gentle Renewing Cleansing Mousse - Lightweight Facial Mousse Cleanser.png",
+      "image_pathtwo": "/Clarins/Cleansers/Gentle Renewing Cleansing Mousse.png",
+      "image_paththree": "/Clarins/Cleansers/Gentle Renewing Cleansing Mousse2.png",
+      "description": "Foaming cleansing mousse for all skin types that gently cleanses and smoothes with exfoliating Tamarind pulp extract rich in AHAs.",
+      "price": "$33.00",
+      "quantity": 55,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Gently washes away impurities, makeup, and pollution. Gently exfoliates with Tamarind pulp extract rich in AHAs. Leaves skin silky-smooth, radiant, and refreshed.",
+      "usage": "Apply to face and neck, morning and evening."
+    },
+
+    {
+      "id": 9,
+      "product name": "Velvet Facial Milk Cleanser",
+      "image_path": "/ClarinsWBG/Cleanser/Velvet Facial Milk Cleanser - Hydrating + Gentle Milk Makeup Remover.png",
+      "image_pathtwo": "/Clarins/Cleansers/Velvet Facial Milk Cleanser.png",
+      "image_paththree": "/Clarins/Cleansers/Velvet Facial Milk Cleanser2.png",
+      "description": "Creamy cleansing milk that gently removes makeup and pollutants while boosting hydration.",
+      "price": "$34.00",
+      "quantity": 35,
+      "skin type": "Normal, Dry.",
+      "benefits": "Gently removes makeup and pollutants while boosting hydration. Leaves skin soft, clean, hydrated, and comfortable. Preserves a healthy balance of the skin's microbiota. Safe for use on face, eyes, and lips.",
+      "usage": "Apply to face, eyes, and lips morning and evening."
+    },
+
+    {
+      "id": 10,
+      "product name": "Total Cleansing Oil",
+      "image_path": "/ClarinsWBG/Cleanser/Total Cleansing Oil - Makeup Removing Facial Cleanser.png",
+      "image_pathtwo": "/Clarins/Cleansers/Total Cleansing Oil.png",
+      "image_paththree": "/Clarins/Cleansers/Total Cleansing Oil2.png",
+      "description": "Easy-rinse cleansing oil that water activates into a silky milk to instantly remove long-wearing, heavy, and waterproof makeup and pollutants.",
+      "price": "$39.00",
+      "quantity": 60,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Removes long-wearing, heavy, and waterproof makeup and pollutants. Leaves skin soft, clean, and comfortable. Preserves a healthy balance of the skin's microbiota. Safe for use on face, eyes, and lips.",
+      "usage": "Apply to face, eyes, and lips morning and evening."
+    },
+
+    {
+      "id": 11,
+      "product name": " Micellar Makeup Remover",
+      "image_path": "/ClarinsWBG/Cleanser/Cleansing Micellar Water Face Makeup Remover.png",
+      "image_pathtwo": "/Clarins/Cleansers/Cleansing Micellar Water Face Makeup Remover.png",
+      "image_paththree": "/Clarins/Cleansers/Cleansing Micellar Water Face Makeup Remover2.png",
+      "description": "Refreshing micellar cleansing water that quickly removes makeup, pollutants, and grime all in one step—no rinse needed.",
+      "price": "$33.00",
+      "quantity": 30,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Quickly removes makeup, pollutants, and grime in one step. Leaves skin instantly soft, smooth, and clean. Preserves a healthy balance of the skin's microbiota. Safe for use on eyes, face, and lips.",
+      "usage": "Apply to face, eyes, and lips morning and evening."
+    },
+
+    {
+      "id": 12,
+      "product name": "Hydrating Toning Face Lotion",
+      "image_path": "/ClarinsWBG/Cleanser/Hydrating Toner Face Lotion.png",
+      "image_pathtwo": "/Clarins/Cleansers/Hydrating Toner + Face Lotion.png",
+      "image_paththree": "/Clarins/Cleansers/Hydrating Toner + Face Lotion2.png",
+      "description": "Refreshing face toner that hydrates, balances, and softens normal or dry skin.",
+      "price": "$31.00",
+      "quantity": 20,
+      "skin type": "Normal, Dry.",
+      "benefits": "Tones and hydrates normal to dry skin. Removes every last trace of cleanser. Leaves skin soft, smooth, and fresh. Balances the skin's microbiota.",
+      "usage": "Apply to face after cleansing, morning and evening."
+    },
+
+    {
+      "id": 13,
+      "product name": "Soothing Toning Face Lotion",
+      "image_path": "/ClarinsWBG/Cleanser/Soothing Toning Face Lotion.png",
+      "image_pathtwo": "/Clarins/Cleansers/Soothing Toning Face Lotion.png",
+      "image_paththree": "/Clarins/Cleansers/Soothing Toning Face Lotion2.png",
+      "description": "Soothing face toner that hydrates, balances, and comforts very dry or sensitive skin.",
+      "price": "$31.00",
+      "quantity": 15,
+      "skin type": "Dry.",
+      "benefits": "Tones and hydrates very dry or sensitive skin. Removes every last trace of cleanser. Leaves skin soft, smooth, and incredibly comfortable. Balances the skin's microbiota.",
+      "usage": "Apply to face after cleansing, morning and evening."
+    },
+
+    {
+      "id": 14,
+      "product name": "Purifying Toning Face Lotion",
+      "image_path": "/ClarinsWBG/Cleanser/Purifying Toning Face Lotion.png",
+      "image_pathtwo": "/Clarins/Cleansers/Purifying Gentle Foaming Face Cleanser.png",
+      "image_paththree": "/Clarins/Cleansers/Purifying Toning Face Lotion for Oily Skin2.png",
+      "description": "Refreshing face toner that hydrates, balances, and de-shines combination or oily skin.",
+      "price": "$31.00",
+      "quantity": 15,
+      "skin type": "Oily, Combination.",
+      "benefits": "Tones, hydrates, and purifies combination to oily skin Removes every last trace of cleanser. Leaves skin soft, shine-free, and refined. Balances the skin's microbiota.",
+      "usage": "Apply to face after cleansing, morning and evening."
+    },
+
+    {
+      "id": 15,
+      "product name": "Gentle Eye Make-Up Remover",
+      "image_path": "/ClarinsWBG/Cleanser/Gentle Eye Make-Up Remover for Sensitive Eyes.png",
+      "image_pathtwo": "/Clarins/Cleansers/Gentle Eye Make-Up Remover.png",
+      "image_paththree": "/Clarins/Cleansers/Gentle Eye Make-Up Remover2.png",
+      "description": "An ultra-gentle, oil-free eye makeup remover for sensitive eyes that removes light-to-medium eye makeup while soothing the eye area and helping to protect lashes.",
+      "price": "$33.00",
+      "quantity": 18,
+      "skin type": "Combination, Dry, Normal, Oily.",
+      "benefits": "Removes light-to-medium eye makeup. Soothes, softens and refreshes skin around the eyes. Conditions and protects lashes. Recommended for sensitive eyes.",
+      "usage": "Use morning and/or evening as needed."
+    },
+
+    {
+      "id": 16,
+      "product name": "Instant Eye-Makeup Remover",
+      "image_path": "/ClarinsWBG/Cleanser/Instant Eye-Makeup Remover for Sensitive Eyes.png",
+      "image_pathtwo": "/Clarins/Cleansers/Instant Eye-Makeup Remover.png",
+      "image_paththree": "/Clarins/Cleansers/Instant Eye-Makeup Remover2.png",
+      "description": "A gentle, bi-phase eye makeup remover for all skin types that instantly removes heavy/waterproof makeup while soothing the eye area and helping to protect lashes.",
+      "price": "$33.00",
+      "quantity": 20,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Removes all traces of eye makeup, including heavy/waterproof. Soothes, softens and refreshes skin around the eyes. Conditions and protects lashes. Gentle enough for sensitive eyes.",
+      "usage": "Use morning and/or evening as needed."
+    }
+  ],
+
+  "toner": [
+    {
+      "id": 1,
+      "product name": "Hydrating Toning Lotion",
+      "image_path": "/ClarinsWBG/Toner/Hydrating Toner Face Lotion.png",
+      "image_pathtwo": "/Clarins/Toners/Hydrating Toner + Face Lotion.png",
+      "image_paththree": "/Clarins/Toners/Hydrating Toner + Face Lotion2.png",
+      "description": "Refreshing face toner that hydrates, balances, and softens normal or dry skin.",
+      "price": "$31.00",
+      "quantity": 20,
+      "skin type": "Normal, Dry.",
+      "benefits": "Tones and hydrates normal to dry skin. Removes every last trace of cleanser. Leaves skin soft, smooth, and fresh. Balances the skin's microbiota.",
+      "usage": "Apply to face after cleansing, morning and evening."
+    },
+
+    {
+      "id": 2,
+      "product name": "Soothing Toning Face Lotion",
+      "image_path": "/ClarinsWBG/Toner/Soothing Toning Face Lotion.png",
+      "image_pathtwo": "/Clarins/Toners/Soothing Toning Face Lotion.png",
+      "image_paththree": "/Clarins/Toners/Soothing Toning Face Lotion2.png",
+      "description": "Soothing face toner that hydrates, balances, and comforts very dry or sensitive skin.",
+      "price": "$31.00",
+      "quantity": 15,
+      "skin type": "Dry.",
+      "benefits": "Tones and hydrates very dry or sensitive skin. Removes every last trace of cleanser. Leaves skin soft, smooth, and incredibly comfortable. Balances the skin's microbiota.",
+      "usage": "Apply to face after cleansing, morning and evening."
+    },
+
+    {
+      "id": 3,
+      "product name": "Purifying Toning Face Lotion",
+      "image_path": "/ClarinsWBG/Toner/Purifying Toning Face Lotion.png",
+      "image_pathtwo": "/Clarins/Toners/Purifying Toning Face Lotion for Oily Skin.png",
+      "image_paththree": "/Clarins/Toners/Purifying Toning Face Lotion for Oily Skin2.png",
+      "description": "Refreshing face toner that hydrates, balances, and de-shines combination or oily skin.",
+      "price": "$31.00",
+      "quantity": 15,
+      "skin type": "Oily, Combination.",
+      "benefits": "Tones, hydrates, and purifies combination to oily skin Removes every last trace of cleanser. Leaves skin soft, shine-free, and refined. Balances the skin's microbiota.",
+      "usage": "Apply to face after cleansing, morning and evening."
+    },
+
+    {
+      "id": 4,
+      "product name": "My Clarins Pure-Rest purifying mattifying toner",
+      "image_path": "/ClarinsWBG/Toner/My Clarins PURE-RESET purifying mattifying toner.png",
+      "image_pathtwo": "/Clarins/Toners/My Clarins PURE-RESET purifying mattifying toner.png",
+      "image_paththree": "/Clarins/Toners/My Clarins PURE-RESET purifying mattifying toner2.png",
+      "description": "Vegan, mattifying toner that balances, de-shines, and refines skin texture in just one step.",
+      "price": "$21.00",
+      "quantity": 25,
+      "benefits": "Mattifies, purifies, and balances. Gently exfoliates with Tamarind pulp extract rich in AHAs. Soothes and hydrates. Leaves skin looking clean, matte, and radiant. Healthy In & Out Complex feeds the skin with nutrients and helps flush out toxins and pollutants.",
+      "usage": "Every day, morning and/or evening."
+    },
+
+    {
+      "id": 5,
+      "product name": "Hydra-Essentiel Hydrating Multi-Protection Mist",
+      "image_path": "/ClarinsWBG/Toner/Hydra-Essentiel Hydrating Multi-Protection Mist.webp",
+      "image_pathtwo": "/Clarins/Toners/Hydra-Essentiel Hydrating Multi-Protection Mist.png",
+      "image_paththree": "/Clarins/Toners/Hydra-Essentiel Hydrating Multi-Protection Mist2.png",
+      "description": "Super-hydrating face mist that leaves skin radiant, plump, and protected from the effects of environmental stressors.",
+      "price": "$36.00",
+      "quantity": 20,
+      "skin type": "Combination, Dry, Normal, Oily.",
+      "benefits": "Hydrates, refreshes, and protects skin from environmental stressors. Leaves skin plump, radiant, and perfectly hydrated. Clarins plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollutants.",
+      "usage": "Apply to clean skin, before or after your skincare routine; or over makeup for a dewy finish. Reapply throughout the day as desired."
+    },
+
+    {
+      "id": 6,
+      "product name": "Extra-Firming Firming Treatment Essence",
+      "image_path": "/ClarinsWBG/Toner/Extra-Firming Firming Treatment Essence.webp",
+      "image_pathtwo": "/Clarins/Toners/Extra-Firming Firming Treatment Essence.png",
+      "image_paththree": "/Clarins/Toners/Extra-Firming Firming Treatment Essence2.png",
+      "description": "An intensely hydrating, alcohol-free treatment essence that visibly firms, lifts, and fights wrinkles.",
+      "price": "$54.00",
+      "quantity": 15,
+      "benefits": "Deeply hydrates for 8 hours, boosts skin's energy and radiance. Visibly smoothes, plumps, firms, lifts, and fights wrinkles.",
+      "usage": "Apply daily, morning and/or evening, to clean, dry skin."
+    },
+
+    {
+      "id": 7,
+      "product name": "Precious La Lotion Age-Defying Treatment Essence",
+      "image_path": "/ClarinsWBG/Toner/Precious La Lotion Age-Defying Treatment Essence.png",
+      "image_pathtwo": "/Clarins/Toners/Precious La Lotion Age-Defying Treatment Essence.webp",
+      "image_paththree": "/Clarins/Toners/Precious La Lotion Age-Defying Treatment Essence2.png",
+      "description": "Luxurious treatment essence, infused with rare Moonlight Flower cryoextract which softens, smoothes and plumps.",
+      "price": "$125.00",
+      "quantity": 14,
+      "skin type": "Combination, Dry, Normal, Oily.",
+      "benefits": "Deeply hydrates, softens, refreshes and refines skin texture. Locks in moisture and prepares skin for treatments to follow.",
+      "usage": "Apply morning and evening after cleansing."
+    },
+
+    {
+      "id": 8,
+      "product name": "Bright Plus Dark Spot-Targeting Treatment Essence",
+      "image_path": "/ClarinsWBG/Toner/Bright Plus Dark Spot-Targeting Treatment Essence.webp",
+      "image_pathtwo": "/Clarins/Toners/Bright Plus Dark Spot-Targeting Treatment Essence.png",
+      "image_paththree": "/Clarins/Toners/Bright Plus Dark Spot-Targeting Treatment Essence2.png",
+      "description": "A refreshing, watery treatment essence for combination to oily skin types that hydrates and prepares skin for the rest of your skincare routine, while targeting dark spots and mattifying for a visibly brighter, dewy-fresh complexion.",
+      "price": "$50.00",
+      "quantity": 20,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Visibly brightens, targets dull skin and dark spots. Promotes an even skin tone, hydrates and mattifies. Gentle enough for sensitive skin.",
+      "usage": "Apply to clean face and neck each morning and evening."
+    },
+
+    {
+      "id": 9,
+      "product name": "Super Restorative Smoothing Treatment Face Essence",
+      "image_path": "/ClarinsWBG/Toner/Super Restorative Smoothing Treatment Face Essence.png",
+      "image_pathtwo": "/Clarins/Toners/Super Restorative Smoothing Treatment Face Essence.png",
+      "image_paththree": "/Clarins/Toners/Super Restorative Smoothing Treatment Face Essence2.png",
+      "description": "An intensely hydrating, alcohol-free treatment essence that helps visibly boost skin’s density and radiance.",
+      "price": "$65.00",
+      "quantity": 25,
+      "skin type": "Combination, Dry, Normal, Oily.",
+      "benefits": "Deeply hydrates for 8 hours, boosts skin's energy and radiance. Visibly smoothes, plumps, and replenishes. Fights deep wrinkles.",
+      "usage": "Apply daily, morning and/or evening, to clean, dry skin."
+    },
+
+    {
+      "id": 10,
+      "product name": "Bright Plus Dark Spot-Targeting Milky Essence",
+      "image_path": "/ClarinsWBG/Toner/Bright Plus Dark Spot-Targeting Milky Essence.webp",
+      "image_pathtwo": "/Clarins/Toners/Bright Plus Dark Spot-Targeting Milky Essence.png",
+      "image_paththree": "/Clarins/Toners/Bright Plus Dark Spot-Targeting Milky Essence2.png",
+      "description": "A soothing, milky treatment essence for normal to dry skin types that hydrates and prepares skin for the rest of your skincare routine, while targeting dark spots for a visibly brighter, even complexion.",
+      "price": "$50.00",
+      "quantity": 20,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Visibly brightens, targets dull skin and dark spots. Promotes an even skin tone, hydrates and soothes. Gentle enough for sensitive skin.",
+      "usage": "Apply to clean face and neck each morning and evening."
+    },
+
+    {
+      "id": 11,
+      "product name": "Multi-Active Revitalizing Treatment Face Essence with Hyaluronic Acid",
+      "image_path": "/ClarinsWBG/Toner/Multi-Active Revitalizing Treatment Face Essence.png",
+      "image_pathtwo": "/Clarins/Toners/Multi-Active Revitalizing Treatment Face Essence.png",
+      "image_paththree": "/Clarins/Toners/Multi-Active Revitalizing Treatment Face Essence2.png",
+      "description": "An intensely hydrating, alcohol-free daily treatment essence for all skin types—powered by Clarins' energizing (Red² + H.A²) Complex—that targets pores and imperfections for a fresh, matte, radiant complexion.",
+      "price": "$40.00",
+      "quantity": 35,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Deeply hydrates for 8 hours, boosts skin's energy and radiance. Refines pores and skin texture, matifies and purifies. Visibly smoothes and plumps.",
+      "usage": "Apply daily, morning and/or evening, to clean, dry skin."
+    }
+  ],
+
+  "face serum": [
+    {
+      "id": 1,
+      "product name": "Double Serum Light Texture",
+      "image_path": "/ClarinsWBG/Face Serum/Double Serum Light Texture.png",
+      "image_pathtwo": "/Clarins/Face Serum/Double Serum Light Texture Firming.png",
+      "image_paththree": "/Clarins/Face Serum/Double Serum Light Texture Firming2.png",
+      "description": "Iconic 2-in-1 serum, now in a lightweight texture, revolutionized with 22 plants including Organic Giant Provençal Reed and Turmeric plus 5 active molecules. Visibly firms, smoothes, boosts radiance and refines pores in 7 days. Great for oily skin and warm, humid climates.",
+      "price": "$135.00",
+      "quantity": 25,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Visibly firms, lifts, and reduces wrinkles. Strengthens skin's moisture barrier. Smoothes, hydrates, nourishes and boosts skin's radiance. Visibly minimizes pores and refines skin texture",
+      "usage": "Apply to clean face and neck, morning and/or evening. Follow with moisturizer."
+    },
+
+    {
+      "id": 2,
+      "product name": "Double Serum Lunar New Year Edition",
+      "image_path": "/ClarinsWBG/Face Serum/Double Serum Lunar New Year Edition.png",
+      "image_pathtwo": "/Clarins/Face Serum/Double Serum Lunar New Year Edition.png",
+      "image_paththree": "/Clarins/Face Serum/Double Serum Lunar New Year Edition2.png",
+      "description": "Celebrate the Year of the Snake with a limited-edition of our iconic 2-in-1 face serum—revolutionized with 22 plants including Organic Giant Provençal Reed and Turmeric plus 5 active molecules. Visibly firms, smoothes, boosts radiance and refines pores in 7 days.",
+      "price": "$185.00",
+      "quantity": 15,
+      "skin type": "Combination, Dry, Normal, Oily.",
+      "benefits": "Visibly firms, lifts, and reduces wrinkles. Instantly strengthens skin's moisture barrier. Smoothes, hydrates, and nourishes. Boosts skin's radiance. Visibly minimizes pores. Refines skin texture. Suitable for all ages, ethnicities, and skin types.",
+      "usage": "Apply to clean face and neck, morning and/or evening. Follow with moisturizer."
+    },
+
+    {
+      "id": 3,
+      "product name": "Double Serum Anti-Aging Plus Anti-Wrinkle Serum",
+      "image_path": "/ClarinsWBG/Face Serum/Double Serum Anti-Aging + Anti-Wrinkle Serum.png",
+      "image_pathtwo": "/Clarins/Face Serum/Double Serum Anti-Aging + Anti-Wrinkle Serum.png",
+      "image_paththree": "/Clarins/Face Serum/Double Serum Anti-Aging + Anti-Wrinkle Serum2.png",
+      "description": "Iconic 2-in-1 serum revolutionized, now with 22 plants including Organic Giant Provençal Reed and Turmeric plus 5 active molecules. Visibly firms, smoothes, boosts radiance + refines pores in 7 days.",
+      "price": "$135.00",
+      "quantity": 20,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Visibly firms, lifts, and reduces wrinkles. Instantly strengthens skin's moisture barrier. Smoothes, hydrates, and nourishes. Boosts skin's radiance. Visibly minimizes pores. Refines skin texture. Suitable for all ages, ethnicities, and skin types.",
+      "usage": "Apply to clean face and neck, morning and/or evening. Follow with moisturizer."
+    },
+
+    {
+      "id": 4,
+      "product name": "Precious Hydrating Plus Smoothing Face Oil Serum",
+      "image_path": "/ClarinsWBG/Face Serum/Precious Hydrating + Smoothing Face Oil Serum.webp",
+      "image_pathtwo": "/Clarins/Face Serum/Precious Hydrating + Smoothing Face Oil Serum.png",
+      "image_paththree": "/Clarins/Face Serum/Precious Hydrating + Smoothing Face Oil Serum2.png",
+      "description": "A luxurious face oil-in-serum—infused with rare Moonlight Flower cryoextract, renews skin overnight to visibly firm, plump, nourish and comfort while you sleep.",
+      "price": "$420.00",
+      "quantity": 12,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Visibly firms, plumps, hydrates, smoothes, revitalizes, nourishes, and comforts. Targets early lines and wrinkles, renews overnight. Reinforces skin's moisture barrier.",
+      "usage": "Apply to clean skin each evening."
+    },
+
+    {
+      "id": 5,
+      "product name": "Hydra-Essentiel Hydrating Bi-Phase Serum",
+      "image_path": "/ClarinsWBG/Face Serum/Hydra-Essentiel Hydrating Bi-Phase Serum.png",
+      "image_pathtwo": "/Clarins/Face Serum/Hydra-Essentiel Hydrating Bi-Phase Serum.png",
+      "image_paththree": "/Clarins/Face Serum/Hydra-Essentiel Hydrating Bi-Phase Serum2.png",
+      "description": "Super-quenching bi-phase face serum for all skin types powered by our exclusive Hyaluronic Power Complex to intensely hydrate, smooth and plump skin in 60 seconds.",
+      "price": "$65.00",
+      "quantity": 23,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Plumper skin in 60 seconds, 24 hour hydration. Immediate and long-lasting hydration. Boosts skin's radiance, refines skin texture, visibly minimizes pores and Smoothes skin.",
+      "usage": "Apply daily to clean face and neck, morning and/or evening."
+    },
+
+    {
+      "id": 6,
+      "product name": "V Shaping Facial Lift Serum",
+      "image_path": "/ClarinsWBG/Face Serum/V Shaping Facial Lift Serum.webp",
+      "image_pathtwo": "/Clarins/Face Serum/V Shaping Facial Lift Serum.png",
+      "image_paththree": "/Clarins/Face Serum/V Shaping Facial Lift Serum2.png",
+      "description": "Gravity-fighting serum visibly sculpts, slims, and depuffs to reveal the perfect contour.",
+      "price": "$92.00",
+      "quantity": 34,
+      "skin type": "Combination, Dry, Normal, Oily.",
+      "benefits": "Visibly sculpts, slims and depuffs, visibly redefines facial contours, hydrates and revives radiance.",
+      "usage": "Apply daily to clean face and neck, morning and/or evening."
+    },
+
+    {
+      "id": 7,
+      "product name": "Super Restorative Remodelling Face Serum",
+      "image_path": "/ClarinsWBG/Face Serum/Super Restorative Remodelling Face Serum.jpg",
+      "image_pathtwo": "/Clarins/Face Serum/Super Restorative Remodelling Face Serum.png",
+      "image_paththree": "/Clarins/Face Serum/Super Restorative Remodelling Face Serum2.png",
+      "description": "Powerful anti-aging serum that replenishes, illuminates, and helps visibly define facial contours.",
+      "price": "$148.00",
+      "quantity": 14,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Helps visibly define facial contours, minimizes the look of lines, wrinkles and skin slackening. Targets the look of dark spots and boosts skin's luminosity.",
+      "usage": "Apply daily to clean face and neck, morning and/or evening."
+    },
+
+    {
+      "id": 8,
+      "product name": "Extra-Firming Phyto-Serum",
+      "image_path": "/ClarinsWBG/Face Serum/Extra-Firming Phyto-Serum.webp",
+      "image_pathtwo": "/Clarins/Face Serum/Extra-Firming Phyto-Serum.png",
+      "image_paththree": "/Clarins/Face Serum/Extra-Firming Phyto-Serum2.png",
+      "description": "Power lift serum that visibly firms, lifts and tightens to help visibly redefine facial contours.",
+      "price": "$112.00",
+      "quantity": 15,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Visibly firms, lifts, and tightens. Helps visibly redefine facial contours.",
+      "usage": "Apply daily to clean face and neck, morning and/or evening."
+    },
+
+    {
+      "id": 9,
+      "product name": "Pore Control Serum",
+      "image_path": "/ClarinsWBG/Face Serum/Pore Control Serum.webp",
+      "image_pathtwo": "/Clarins/Face Serum/Pore Control Serum.png",
+      "image_paththree": "/Clarins/Face Serum/Pore Control Serum2.png",
+      "description": "Mattifying serum that visibly tightens pores for a refined, shine-free complexion.",
+      "price": "$60.00",
+      "quantity": 36,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Visibly tightens pores. Smoothes, refines, de-shines and renews radiance.",
+      "usage": "Apply daily to clean face and neck, morning and/or evening."
+    },
+
+    {
+      "id": 10,
+      "product name": "Precious Le Sérum Luxury Face Serum",
+      "image_path": "/ClarinsWBG/Face Serum/Precious Le Sérum Luxury Face Serum.png",
+      "image_pathtwo": "/Clarins/Face Serum/Precious Le Sérum Luxury Face Serum.webp",
+      "image_paththree": "/Clarins/Face Serum/Super Restorative Remodelling Face Serum2.png",
+      "description": "A luxurious serum—infused with rare Moonlight Flower cryoextract, to visibly firm, smooth, and help define facial contours with an immediate and long-term lifting effect.",
+      "price": "$420.00",
+      "quantity": 20,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Visibly lifts, firms, hydrates, and smoothes. Visibly tightens and helps defines facial contours. Boosts skin's radiance.",
+      "usage": "Apply to clean skin, morning and evening."
+    },
+
+    {
+      "id": 11,
+      "product name": "Multi-Active Set",
+      "image_path": "/ClarinsWBG/Face Serum/Multi-Active Set.jpg",
+      "image_pathtwo": "/Clarins/Face Serum/Multi-Active Set.png",
+      "image_paththree": "/Clarins/Face Serum/Multi-Active Set2.png",
+      "description": "Bundle and save with this best-selling duo: Double Serum Light 1 Oz. and Multi-Active Day Cream.",
+      "price": "$131.75",
+      "quantity": 12,
+      "benefits": "Visibly firms, smoothes, boosts radiance and refines pores in 7 days. Great for oily skin and warm, humid climates."
+    },
+
+    {
+      "id": 12,
+      "product name": "Extra-Firming Set",
+      "image_path": "/ClarinsWBG/Face Serum/Extra-Firming Set.webp",
+      "image_pathtwo": "/Clarins/Face Serum/Extra-Firming Set.png",
+      "image_paththree": "/Clarins/Face Serum/Extra-Firming Set2.png",
+      "description": "Bundle and save with this best-selling, anti-aging duo: Double Serum 1 Oz. and Extra-Firming Day Cream.",
+      "price": "$162.35",
+      "quantity": 15,
+      "benefits": "Visibly firms, smoothes, boosts radiance and refines pores in 7 days. Great for oily skin and warm, humid climates."
+    },
+
+    {
+      "id": 13,
+      "product name": "Extra-Firming Set with SPF",
+      "image_path": "/ClarinsWBG/Face Serum/Extra-Firming Set with SPF.webp",
+      "image_pathtwo": "/Clarins/Face Serum/Extra-Firming Set with SPF.png",
+      "image_paththree": "/Clarins/Face Serum/Extra-Firming Set with SPF2.png",
+      "description": "Bundle and save with this best-selling, anti-aging duo: Double Serum 1 Oz. and Extra-Firming Day Cream SPF 15.",
+      "price": "$162.35",
+      "quantity": 15,
+      "benefits": "Age-defying day moisturizer for all skin types that visibly firms, lifts, and protects with Broad Spectrum SPF 15 sunscreen."
+    },
+
+    {
+      "id": 14,
+      "product name": "Super Restorative Set",
+      "image_path": "/ClarinsWBG/Face Serum/Super Restorative Set.webp",
+      "image_pathtwo": "/Clarins/Face Serum/Super Restorative Set.png",
+      "image_paththree": "/Clarins/Face Serum/Super Restorative Set2.png",
+      "description": "Bundle and save with this best-selling duo: Double Serum Light 1 Oz. and Super Restorative Day Cream.",
+      "price": "$196.35",
+      "quantity": 20,
+      "benefits": "replenishes, targets wrinkles, visibly improves slackening, and evens skin tone. Powered by Organic Harungana, as effective as retinol and gentle on the skin, plus Organic Gorse."
+    },
+
+    {
+      "id": 15,
+      "product name": "Super Restorative Set with SPF",
+      "image_path": "/ClarinsWBG/Face Serum/Super Restorative Set with SPF.webp",
+      "image_pathtwo": "/Clarins/Face Serum/Super Restorative Set with SPF.png",
+      "image_paththree": "/Clarins/Face Serum/Super Restorative Set with SPF2.png",
+      "description": "Bundle and save with this best-selling duo: Double Serum Light 1 Oz. and Super Restorative Day Cream SPF 15.",
+      "price": "$196.35",
+      "quantity": 35,
+      "benefits": "to replenish and visibly minimize loss of density, to visibly tighten and improve skin slackening caused by hormonal changes due to the natural aging process. Visibly firms, smoothes, boosts radiance and refines pores."
+    },
+
+    {
+      "id": 16,
+      "product name": "Bright Plus Advanced Serum",
+      "image_path": "/ClarinsWBG/Face Serum/Bright Plus [Advanced] Serum.png",
+      "image_pathtwo": "/Clarins/Face Serum/Bright Plus [Advanced] Serum2.png",
+      "image_paththree": "/Clarins/Face Serum/Bright Plus [Advanced] SerumBright Plus [Advanced] Serum.png",
+      "description": "Powerful face brightening serum with Vitamin C,  Niacinamide, and New! (Evenness Boosting Technology) to revive radiance, even skin tone, target dark spots, and visibly brighten dull, sallow skin.",
+      "price": "$118.00",
+      "quantity": 20,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Evens skin tone, brightens and boosts radiance. Visibly reduces the look of dark spots, revives dull complexions .Visibly improves sallowness.",
+      "usage": "Apply Clarins Bright Plus Serum to clean face and neck, morning and/or evening. Follow with moisturizer."
+    }
+  ],
+
+  "face treatment oils": [
+    {
+      "id": 1,
+      "product name": "Blue Orchid Hydrating Face Treatment Oil",
+      "image_path": "/ClarinsWBG/Face Treatment Oils/Blue Orchid Hydrating Face Treatment Oil.jpg",
+      "image_pathtwo": "/Clarins/Face Treatment Oils/Blue Orchid Hydrating Face Treatment Oil.png",
+      "image_paththree": "/Clarins/Face Treatment Oils/Blue Orchid Hydrating Face Treatment Oil2.png",
+      "description": "Hydrating face oil formulated with 100% plant extracts to help restore radiance, tone and vitality.",
+      "price": "$67.00",
+      "quantity": 20,
+      "skin type": "Dry.",
+      "benefits": "Revitalizes, tones and restores radiance. Hydrates, softens and soothes. Minimizes the appearance of fine lines.",
+      "usage": "Use morning and/or evening."
+    },
+
+    {
+      "id": 2,
+      "product name": "Santal Soothing Face Treatment Oil ",
+      "image_path": "/ClarinsWBG/Face Treatment Oils/Santal Soothing Face Treatment Oil for Dry Skin.png",
+      "image_pathtwo": "/Clarins/Face Treatment Oils/Santal Soothing Face Treatment Oil.png",
+      "image_paththree": "/Clarins/Face Treatment Oils/Santal Soothing Face Treatment Oil2.png",
+      "description": "Skin-calming face oil formulated with 100% plant extracts to hydrate, tone and comfort.",
+      "price": "$67.00",
+      "quantity": 15,
+      "skin type": "Dry.",
+      "benefits": "Nourishes, comforts, calms redness and irritations. Hydrates, softens and smoothes. Minimizes the appearance of fine lines.",
+      "usage": "Use morning and/or evening."
+    },
+
+    {
+      "id": 3,
+      "product name": "Lotus Purifying Face Treatment Oil",
+      "image_path": "/ClarinsWBG/Face Treatment Oils/Lotus Purifying Face Treatment Oil for Oily Skin.png",
+      "image_pathtwo": "/Clarins/Face Treatment Oils/Lotus Purifying Face Treatment Oil.png",
+      "image_paththree": "/Clarins/Face Treatment Oils/Lotus Purifying Face Treatment Oil2.png",
+      "description": "Purifying face oil formulated with 100% plant extracts to hydrate, tone and visibly tighten pores.",
+      "price": "$67.00",
+      "quantity": 25,
+      "skin type": "Oily.",
+      "benefits": "Visibly tightens pores, balances and purifies. Hydrates and refines, softens and soothes. Minimizes the appearance of fine lines.",
+      "usage": "Use morning and/or evening."
+    },
+
+    {
+      "id": 4,
+      "product name": "Plant Gold Nutri-Revitalizing Oil",
+      "image_path": "/ClarinsWBG/Face Treatment Oils/Plant Gold Nutri-Revitalizing Oil.webp",
+      "image_pathtwo": "/Clarins/Face Treatment Oils/Plant Gold Nutri-Revitalizing Oil.png",
+      "image_paththree": "/Clarins/Face Treatment Oils/Plant Gold Nutri-Revitalizing Oil2.png",
+      "description": "2-in-1 oil-emulsion moisturizer formulated with 100% natural ingredients to provide skin with comfort, vitality, and radiance.",
+      "price": "$67.00",
+      "quantity": 11,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Leaves skin hydrated, nourished, and radiant. Formulated with ingredients that are of 100% natural origin.",
+      "usage": "Apply to clean face and neck each morning."
+    },
+
+    {
+      "id": 5,
+      "product name": "Precious L'Outil 3-in-1 Facial Massage Tool",
+      "image_path": "/ClarinsWBG/Face Treatment Oils/Precious L'Outil 3-in-1 Facial Massage Tool.png",
+      "image_pathtwo": "/Clarins/Face Treatment Oils/Precious L'Outil 3-in-1 Facial Massage Tool.webp",
+      "image_paththree": "/Clarins/Face Treatment Oils/Precious L'Outil 3-in-1 Facial Massage Tool2.png",
+      "description": "Luxurious, 3-in-1 facial massage tool promotes lymphatic drainage and enhances the anti-aging efficacy of La Crème.",
+      "price": "$65.00",
+      "quantity": 13,
+      "skin type": "Dry.",
+      "benefits": "Relaxes facial muscles to relieve tension. Visibly lifts skin. Promotes lymphatic drainage.",
+      "usage": "Glide over skin, morning and/or evening, after applying La Crème."
+    }
+  ],
+
+  "blemish and imperfections": [
+    {
+      "id": 1,
+      "product name": "My Clarins Pure-Reset targeted blemish lotion",
+      "image_path": "/ClarinsWBG/Blemishes and Imperfections/My Clarins PURE-RESET targeted blemish lotion.png",
+      "image_pathtwo": "/Clarins/Blemishes and Imperfections/My Clarins PURE-RESET targeted blemish lotion.png",
+      "image_paththree": "/Clarins/Blemishes and Imperfections/My Clarins PURE-RESET targeted blemish lotion2.png",
+      "description": "Targeted vegan spot treatment that dries blemishes while visibly minimizing imperfections with results you can see after just 1 night!",
+      "price": "$21.00",
+      "quantity": 45,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Purifies skin and dries blemishes in 1 night. Keeps excess sebum in check, visibly reduces redness.",
+      "usage": "At night, before bed."
+    },
+
+    {
+      "id": 2,
+      "product name": "Bright Plus Vitamin C Ampoule",
+      "image_path": "/ClarinsWBG/Blemishes and Imperfections/Bright Plus Vitamin C Ampoule.webp",
+      "image_pathtwo": "/Clarins/Blemishes and Imperfections/Bright Plus Vitamin C Ampoule.png",
+      "image_paththree": "/Clarins/Blemishes and Imperfections/Bright Plus Vitamin C Ampoule2.png",
+      "description": "Intensive, 7 day treatment targets dullness and dark spots, evens skin tone, and provides a boost of radiance.",
+      "price": "$38.00",
+      "quantity": 25,
+      "skin type": "Oily.",
+      "benefits": "Provides an intense boost of radiance.Targets dull skin and dark spots. Evens skin tone.",
+      "usage": "Use each morning and evening for 7 days."
+    },
+
+    {
+      "id": 3,
+      "product name": "Instant Smooth-Perfecting Touch Face Primer",
+      "image_path": "/ClarinsWBG/Blemishes and Imperfections/Instant Smooth-Perfecting Touch Face Primer.jpg",
+      "image_pathtwo": "/Clarins/Blemishes and Imperfections/Instant Smooth-Perfecting Touch Face Primer.png",
+      "image_paththree": "/Clarins/Blemishes and Imperfections/Instant Smooth-Perfecting Touch Face Primer2.png",
+      "description": "Wrinkle-smoothing makeup primer that fills in fine lines, pores and deep wrinkles for foundation-ready skin in seconds.",
+      "price": "$40.00",
+      "quantity": 20,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Fills in fine lines, pores and deep wrinkles. Smoothes and hydrates the skin. Preps skin for flawless makeup application.",
+      "usage": "Use alone, under makeup, or mix with your foundation."
+    }
+  ],
+
+  "lip and neck care": [
+    {
+      "id": 1,
+      "product name": "Hydra-Essentiel (HA + PEPTIDE) Moisture Replenishing Lip Balm",
+      "image_path": "/ClarinsWBG/Lip and Neck Care/Hydra-Essentiel [HA + PEPTIDE] Moisture Replenishing Lip Balm.png",
+      "image_pathtwo": "/Clarins/Lip and Neck Care/Hydra-Essentiel [HA + PEPTIDE] Moisture Replenishing Lip Balm.png",
+      "image_paththree": "/Clarins/Lip and Neck Care/Hydra-Essentiel [HA + PEPTIDE] Moisture Replenishing Lip Balm2.png",
+      "description": "Super-quenching 24-hour hydrating lip balm, with hyaluronic acid and plumping peptides to hydrate, smooth, and visibly plump in 60 seconds.",
+      "price": "$28.00",
+      "quantity": 50,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "24-hour hydration, smoothes, comforts, nourishes and protects. Visibly plumps lips in 60 seconds. Boosts lips' natural radiance.",
+      "usage": "Apply day and/or night as desired."
+    },
+
+    {
+      "id": 2,
+      "product name": "Extra-Firming Neck and Décolleté",
+      "image_path": "/ClarinsWBG/Lip and Neck Care/Extra-Firming Neck and Décolleté.webp",
+      "image_pathtwo": "/Clarins/Lip and Neck Care/Extra-Firming Neck and Décolleté.png",
+      "image_paththree": "/Clarins/Lip and Neck Care/Extra-Firming Neck and Décolleté2.png",
+      "description": "Anti-aging neck and décolleté cream that visibly minimizes wrinkles, skin slackening, and age-related dark spots.",
+      "price": "$98.00",
+      "quantity": 30,
+      "skin type": "Normal, Oily, Combination, Dry.",
+      "benefits": "Visibly firms, smoothes, and lifts slackened skin on the neck and décolleté area. Minimizes the appearance of wrinkles. Targets dark spots to promote an even skin tone. Hydrates and nourishes.",
+      "usage": "Apply to clean neck and décolleté, morning and/or evening."
+    },
+
+    {
+      "id": 3,
+      "product name": "Super Restorative Décolleté Cream and Neck Concentrate",
+      "image_path": "/ClarinsWBG/Lip and Neck Care/Super Restorative Décolleté Cream and Neck Concentrate.webp",
+      "image_pathtwo": "/Clarins/Lip and Neck Care/Super Restorative Décolleté Cream and Neck Concentrate.png",
+      "image_paththree": "/Clarins/Lip and Neck Care/Super Restorative Décolleté Cream and Neck Concentrate2.png",
+      "description": "Replenishing anti-aging cream for décolleté and neck that reduces the appearance of age spots, deep wrinkles, and skin slackening.",
+      "price": "$118.00",
+      "quantity": 12,
+      "skin type": "Combination, Dry, Normal, Oily.",
+      "benefits": "Reduces the appearance of deep wrinkles and skin slackening. Visibly minimizes the appearance of age spots. Softens, soothes and smoothes. Clarins' plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollutants.",
+      "usage": "Apply to clean décolleté, neck and shoulders each morning and/or evening."
+    },
+
+    {
+      "id": 4,
+      "product name": "Extra-Firming Lip & Contour Balm",
+      "image_path": "/ClarinsWBG/Lip and Neck Care/Extra-Firming Lip & Contour Balm.jpg",
+      "image_pathtwo": "/Clarins/Lip and Neck Care/Extra-Firming Lip & Contour Balm.png",
+      "image_paththree": "/Clarins/Lip and Neck Care/Extra-Firming Lip & Contour Balm2.png",
+      "description": "Melting lip contour balm that visibly smoothes, nourishes, and protects.",
+      "price": "$49.00",
+      "quantity": 40,
+      "benefits": "Visibly smoothes fine lines and wrinkles. Nourishes and comforts dry lips. Softens, replenishes, and plumps. Clarins' plant-based Anti-Pollution Complex helps protect skin from indoor and outdoor pollutants.",
+      "usage": "Use as desired."
+    },
+
+    {
+      "id": 5,
+      "product name": "Lip Comfort Oil Hydrating and Plumping Lip Oil",
+      "image_path1": "/ClarinsWBG/Lip and Neck Care/Lip Comfort Oil Hydrating and Plumping Lip Oil.png",
+      "image_patht2": "/Clarins/Lip and Neck Care/Lip Comfort Oil Hydrating and Plumping Lip Oil.png",
+      "image_path3": "/Clarins/Lip and Neck Care/Lip Comfort Oil Hydrating and Plumping Lip Oil2.png",
+      "description": "Nourishing lip oil enriched with a trio of plant oils to nourish, comfort, and visibly plump lips, while providing a protective shield of high-shining color.",
+      "price": "$30.00",
+      "quantity": 20,
+      "skin type": "Combination, Dry, Normal, Oily",
+      "benefits": "Ultra-hydrating lip oil comforts and protects. A trio of nourishing oils visibly plumps lips. Kisses lips with a sheer hint of color and mirror-like shine.",
+      "usage": "Wear alone, to prime lips, or top off any lipstick or stain for extra shine."
+    }
+  ]
+}
